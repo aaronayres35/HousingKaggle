@@ -2,45 +2,57 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+from IPython.display import display
+from ipywidgets import interact, interactive_output, fixed, Layout, Dropdown, HBox, ToggleButtons
+
 # --------------------------- DISTRIBTUIONS ------------------------------------
-def data_distribution_scatters(X, y):
+def distribution_helper(x, y, data):
     '''
     Plots the distribution of training data against the (continuous) target 
     variable.
 
-    @param X: column vector(s) of features
-    @param y: column vector of target data
+    @param x, y: column vector of data
     '''
-    features    = X.columns
-    object_cols = [col for col in features if X[col].dtype == "object"]
+    x, y = data[x], data[y]
+    fig  = plt.figure(figsize=(20,5))
 
-    for i in range(len(features)):
-        fig     = plt.figure(figsize=(20,5))
-        feature = features[i]
-        x       = X[feature]
-        
-        if x.dtype == "object":
-            # catergorical scatterplot
-            sns.swarmplot(x=x, y=y, s=1.5)
-            counts = dict(x.value_counts())
-            plt.legend(
-                [f'{k}: {v}' for k,v in counts.items()], 
-                bbox_to_anchor=(1.05,1), 
-                loc="upper right",
-            )            
-                    
-        else:
-            # quantitative scatterplot
-            sns.scatterplot(x=x, y=y)
-            counts = dict(x.value_counts())
-                    
-        plt.title(f'{feature} Distribution (index: {i})', {'fontsize': 16})
-        plt.annotate(
-            f'Total: {sum(counts.values())}', 
-            xy=(0.01, 0.95), 
-            xycoords='axes fraction',
-        )
-        plt.show()
+    if x.dtype == "object":
+        # catergorical scatterplot
+        sns.swarmplot(x=x, y=y, s=1.5)
+        counts = dict(x.value_counts())
+        plt.legend(
+            [f'{k}: {v}' for k,v in counts.items()], 
+            bbox_to_anchor=(1.05,1), 
+            loc="upper right",
+        )            
+                
+    else:
+        # quantitative scatterplot
+        sns.scatterplot(x=x, y=y)
+        counts = dict(x.value_counts())
+                
+    plt.xlabel(x.name, {'fontsize': 16})
+    plt.ylabel(y.name, {'fontsize': 16})
+    plt.annotate(
+        f'Total: {sum(counts.values())}', 
+        xy=(0.01, 0.95), 
+        xycoords='axes fraction',
+    )
+    plt.show()
+    
+def interactive_distributions(data, default_y):
+    '''
+    Plots the distribution of training data against the (continuous) target 
+    variable.
+
+    @param data: dataframe
+    '''
+    x = Dropdown(options=data.columns, description='x')
+    y = Dropdown(options=data.columns, value=default_y, description='y')
+    
+    ui = HBox([x, y])
+    out = interactive_output(distribution_helper, {'x': x, 'y': y, 'data': fixed(data)})
+    return display(ui, out)
 
 # ------------------------------------------------------------------------------
 # ----------------------------- HEATMAPS ---------------------------------------
@@ -92,4 +104,27 @@ def target_heatmap(data, target):
         fontdict={'fontsize':12}, 
         pad=16,
     );
+
+def heatmap_helper(type_, data, target): 
+    if type_ == 'Lower Triangle Correlation':
+        return features_heatmap(data)
+
+    elif type_ == 'Target Correlation':
+        return target_heatmap(data, target)
+    
+    else:
+        return None
+   
+def interactive_heatmap(data, target):
+    button = ToggleButtons(
+        options=['Lower Triangle Correlation', 'Target Correlation'],
+        description='Type: ',
+        tooltips=[
+            'heatmap of correlations between all features', 
+            'heatmap of correlations between each feature and target',
+        ],
+    )
+
+    out = interactive_output(heatmap_helper, {'type_': button, 'data': fixed(data), 'target': fixed(target)})
+    return display(button, out)
 # ------------------------------------------------------------------------------
