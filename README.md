@@ -1,6 +1,5 @@
-# HousingKaggle
-House Prices: Advanced Regression Techniques Kaggle Competition
+# House Prices: Advanced Regression Techniques Kaggle Competition
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aaronayres35/HousingKaggle/HEAD?filepath=KaggleHousing.ipynb)
 
-Visit [nbviewer](https://nbviewer.jupyter.org/github/aaronayres35/HousingKaggle/blob/main/KaggleHousing.ipynb) 
-for KaggleHousing.ipynb. Click 'Execute on Binder' to open active version of the notebook (not working rn tho).
+Click 'Launch Binder' above to open active version of KaggleHousing.ipynb.
