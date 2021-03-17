@@ -1,4 +1,9 @@
+import os
 import pygsheets
+import pandas as pd
+
+THIS_PATH  = os.path.dirname(__file__)
+MTEAM_PATH = os.path.join(THIS_PATH, '../data/MTeams.csv')
 
 # --------------------------------------------------------------------------------------------------------------------
 
@@ -11,26 +16,32 @@ def left_cell(cell):
     return f"{chr(ord(col)-1)}{row}"
 
 # --------------------------------------------------------------------------------------------------------------------
+def get_id_from_name(name):
+    df = pd.read_csv(MTEAM_PATH)
+    name = name.strip()
+    return int(df.loc[df['TeamName']==name, 'TeamID'].values[0])
+    
+def get_name_from_id(id):
+    df = pd.read_csv(MTEAM_PATH)
+    id = int(id)
+    return df.loc[df['TeamID']==id, 'TeamName'].values[0]
 
-def get_predictions(filename, prediction_type):
+def get_predictions(submission):
+    submission = os.path.join(THIS_PATH, '..', submission)
+    df = pd.read_csv(submission)
     # key: "{team1_id}_{team2_id}", val: id of winning team
     predictions = {}
-    f = open(filename, "r")
-    for line in f.readlines():
-        line = line.strip()
-        matchup, prediction = line.split(',')
-        year, t1, t2 = matchup.split('_')
-        if prediction_type == "spread":
-            predictions[f"{t1}_{t2}"] = t1 if (float(prediction) > 0) else t2
-        else: # probabilty
-           predictions[f"{t1}_{t2}"] = t1 if (float(prediction) > 0.50) else t2
-    f.close()
-    
+    for _, row in df.iterrows():
+        id_  = row['ID']
+        pred = row['Pred']
+        year, t1, t2 = list(map(int, id_.split('_')))
+        
+        predictions[f"{t1}_{t2}"] = t1 if (float(pred) > 0.50) else t2
     return predictions
     
 # --------------------------------------------------------------------------------------------------------------------
 
-def gsheet_bracket_from_submission(submission, gsheet_key, prediction_type):
+def bracket_from_submission(submission, gsheet_key, season):
     gc = pygsheets.authorize() # This may create a link to authorize
 
     N_ROUNDS    = 6
@@ -55,7 +66,7 @@ def gsheet_bracket_from_submission(submission, gsheet_key, prediction_type):
         "6.1": ('K35', 'O35')
     }
     
-    predictions = get_predictions(submission, prediction_type)
+    predictions = get_predictions(submission)
     
     for ROUND in range(N_ROUNDS+1):
         N_GAMES = (2 ** (N_ROUNDS-ROUND)) if ROUND != 0 else 4 # first four
@@ -63,18 +74,17 @@ def gsheet_bracket_from_submission(submission, gsheet_key, prediction_type):
         for GAME in range(1, N_GAMES+1):
             # get teams
             (team_a_cell, team_b_cell) = gsheet_cell_map[f"{ROUND}.{GAME}"]
-            team_a = wk_sheet.get_value(team_a_cell)
-            team_b = wk_sheet.get_value(team_b_cell)
+            team_a_info = wk_sheet.get_value(team_a_cell).strip()
+            team_b_info = wk_sheet.get_value(team_b_cell).strip()
             
-            # get winner
-            # TODO: need to index for name by id
-            team_a_seed, team_a_id = team_a.split(' ')
-            team_b_seed, team_b_id = team_b.split(' ')
-            team_a_id = team_a_id.split("\"")[1]
-            team_b_id = team_b_id.split("\"")[1]
-            # TODO: edit this for actual one. float() -> int(). won't have to worry ab nested strings
-            matchup = f"{team_a_id}_{team_b_id}" if float(team_a_id) < float(team_b_id) else f"{team_b_id}_{team_a_id}"
-            winner  = results[matchup]
+            team_a_seed, team_a = team_a_info.split('.')
+            team_b_seed, team_b = team_b_info.split('.')
+            
+            team_a_id = get_id_from_name(team_a.strip())
+            team_b_id = get_id_from_name(team_b.strip())
+
+            matchup = f"{team_a_id}_{team_b_id}" if int(team_a_id) < int(team_b_id) else f"{team_b_id}_{team_a_id}"
+            winner  = predictions[matchup]
             
             # write '.' to cell next to winner
             winner_cell, loser_cell = (team_a_cell, team_b_cell) if (winner == team_a_id) else (team_b_cell, team_a_cell)
