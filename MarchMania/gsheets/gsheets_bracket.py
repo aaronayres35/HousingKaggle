@@ -27,7 +27,7 @@ def get_name_from_id(id):
     return df.loc[df['TeamID']==id, 'TeamName'].values[0]
 
 def get_predictions(submission):
-    submission = os.path.join(THIS_PATH, '..', submission)
+    submission = os.path.join(THIS_PATH, '..', f'submissions/{submission}.csv')
     df = pd.read_csv(submission)
     # key: "{team1_id}_{team2_id}", val: id of winning team
     predictions = {}
@@ -41,17 +41,16 @@ def get_predictions(submission):
     
 # --------------------------------------------------------------------------------------------------------------------
 
-def bracket_from_submission(submission, gsheet_key, season):
+def bracket_from_submission(FILENAME, gsheet_key, season):
+    # TODO: can add ignore_first_four... don't have to predict and could make bracket unnecessarily worse
     gc = pygsheets.authorize() # This may create a link to authorize
 
     N_ROUNDS    = 6
-    _, FILENAME = submission.split('/')
-    NAME, _     = FILENAME.split('.')
     
     template = gc.open_by_key(gsheet_key).worksheet_by_title('Template')
     sheet = gc.open_by_key(gsheet_key)
     # create new worksheet for bracket and unhide
-    wk_sheet = sheet.add_worksheet(NAME, src_tuple=(sheet.id, template.id), src_worksheet=template)
+    wk_sheet = sheet.add_worksheet(FILENAME, src_tuple=(sheet.id, template.id), src_worksheet=template)
     wk_sheet.hidden = False
     
     # map between tournament game number and cell of teams playing in it
@@ -66,7 +65,7 @@ def bracket_from_submission(submission, gsheet_key, season):
         "6.1": ('K35', 'O35')
     }
     
-    predictions = get_predictions(submission)
+    predictions = get_predictions(FILENAME)
     
     for ROUND in range(N_ROUNDS+1):
         N_GAMES = (2 ** (N_ROUNDS-ROUND)) if ROUND != 0 else 4 # first four
@@ -88,7 +87,12 @@ def bracket_from_submission(submission, gsheet_key, season):
             
             # write '.' to cell next to winner
             winner_cell, loser_cell = (team_a_cell, team_b_cell) if (winner == team_a_id) else (team_b_cell, team_a_cell)
-            cell_to_mark = right_cell(winner_cell) if (GAME <= (N_GAMES/2)) else left_cell(winner_cell)
+            if ROUND != 6:
+                cell_to_mark = right_cell(winner_cell) if (GAME <= ((N_GAMES+1)/2)) else left_cell(winner_cell)
+            else:
+                cell_to_mark = right_cell(winner_cell) if (winner == team_a_id) else left_cell(winner_cell)
+            
+                
             wk_sheet.update_value(cell_to_mark, '.')
     
     wk_sheet.create_protected_range('A5', 'Y70')
