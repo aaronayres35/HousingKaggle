@@ -1,0 +1,2279 @@
+Season,ATeamID,BTeamID,ASeed,ATeamName,BSeed,BTeamName
+2021,1276,1400,1,Michigan,3,Texas
+2021,1276,1382,1,Michigan,9,St Bonaventure
+2021,1276,1277,1,Michigan,11,Michigan St
+2021,1276,1417,1,Michigan,11,UCLA
+2021,1276,1422,1,Michigan,13,UNC Greensboro
+2021,1276,1291,1,Michigan,16,Mt St Mary's
+2021,1276,1411,1,Michigan,16,TX Southern
+2021,1276,1438,1,Michigan,4,Virginia
+2021,1276,1425,1,Michigan,6,USC
+2021,1276,1332,1,Michigan,7,Oregon
+2021,1276,1328,1,Michigan,8,Oklahoma
+2021,1276,1281,1,Michigan,9,Missouri
+2021,1276,1433,1,Michigan,10,VCU
+2021,1276,1455,1,Michigan,11,Wichita St
+2021,1276,1364,1,Michigan,12,UC Santa Barbara
+2021,1276,1325,1,Michigan,13,Ohio
+2021,1276,1313,1,Michigan,16,Norfolk St
+2021,1276,1452,1,Michigan,3,West Virginia
+2021,1276,1329,1,Michigan,4,Oklahoma St
+2021,1276,1397,1,Michigan,5,Tennessee
+2021,1276,1361,1,Michigan,6,San Diego St
+2021,1276,1353,1,Michigan,10,Rutgers
+2021,1276,1393,1,Michigan,11,Syracuse
+2021,1276,1333,1,Michigan,12,Oregon St
+2021,1276,1287,1,Michigan,14,Morehead St
+2021,1276,1326,1,Michigan,2,Ohio St
+2021,1276,1345,1,Michigan,4,Purdue
+2021,1276,1437,1,Michigan,5,Villanova
+2021,1276,1403,1,Michigan,6,Texas Tech
+2021,1276,1314,1,Michigan,8,North Carolina
+2021,1276,1458,1,Michigan,9,Wisconsin
+2021,1276,1439,1,Michigan,10,Virginia Tech
+2021,1276,1429,1,Michigan,11,Utah St
+2021,1276,1457,1,Michigan,12,Winthrop
+2021,1276,1317,1,Michigan,13,North Texas
+2021,1276,1331,1,Michigan,15,Oral Roberts
+2021,1104,1276,2,Alabama,1,Michigan
+2021,1104,1400,2,Alabama,3,Texas
+2021,1104,1199,2,Alabama,4,Florida St
+2021,1104,1160,2,Alabama,5,Colorado
+2021,1104,1140,2,Alabama,6,BYU
+2021,1104,1163,2,Alabama,7,Connecticut
+2021,1104,1261,2,Alabama,8,LSU
+2021,1104,1382,2,Alabama,9,St Bonaventure
+2021,1104,1268,2,Alabama,10,Maryland
+2021,1104,1277,2,Alabama,11,Michigan St
+2021,1104,1417,2,Alabama,11,UCLA
+2021,1104,1207,2,Alabama,12,Georgetown
+2021,1104,1422,2,Alabama,13,UNC Greensboro
+2021,1104,1233,2,Alabama,15,Iona
+2021,1104,1291,2,Alabama,16,Mt St Mary's
+2021,1104,1411,2,Alabama,16,TX Southern
+2021,1104,1211,2,Alabama,1,Gonzaga
+2021,1104,1234,2,Alabama,2,Iowa
+2021,1104,1242,2,Alabama,3,Kansas
+2021,1104,1438,2,Alabama,4,Virginia
+2021,1104,1166,2,Alabama,5,Creighton
+2021,1104,1425,2,Alabama,6,USC
+2021,1104,1332,2,Alabama,7,Oregon
+2021,1104,1328,2,Alabama,8,Oklahoma
+2021,1104,1281,2,Alabama,9,Missouri
+2021,1104,1433,2,Alabama,10,VCU
+2021,1104,1179,2,Alabama,11,Drake
+2021,1104,1455,2,Alabama,11,Wichita St
+2021,1104,1364,2,Alabama,12,UC Santa Barbara
+2021,1104,1325,2,Alabama,13,Ohio
+2021,1104,1186,2,Alabama,14,E Washington
+2021,1104,1213,2,Alabama,15,Grand Canyon
+2021,1104,1111,2,Alabama,16,Appalachian St
+2021,1104,1313,2,Alabama,16,Norfolk St
+2021,1104,1228,2,Alabama,1,Illinois
+2021,1104,1222,2,Alabama,2,Houston
+2021,1104,1452,2,Alabama,3,West Virginia
+2021,1104,1329,2,Alabama,4,Oklahoma St
+2021,1104,1397,2,Alabama,5,Tennessee
+2021,1104,1361,2,Alabama,6,San Diego St
+2021,1104,1155,2,Alabama,7,Clemson
+2021,1104,1260,2,Alabama,8,Loyola-Chicago
+2021,1104,1210,2,Alabama,9,Georgia Tech
+2021,1104,1353,2,Alabama,10,Rutgers
+2021,1104,1393,2,Alabama,11,Syracuse
+2021,1104,1333,2,Alabama,12,Oregon St
+2021,1104,1251,2,Alabama,13,Liberty
+2021,1104,1287,2,Alabama,14,Morehead St
+2021,1104,1156,2,Alabama,15,Cleveland St
+2021,1104,1180,2,Alabama,16,Drexel
+2021,1104,1124,2,Alabama,1,Baylor
+2021,1104,1326,2,Alabama,2,Ohio St
+2021,1104,1116,2,Alabama,3,Arkansas
+2021,1104,1345,2,Alabama,4,Purdue
+2021,1104,1437,2,Alabama,5,Villanova
+2021,1104,1403,2,Alabama,6,Texas Tech
+2021,1104,1196,2,Alabama,7,Florida
+2021,1104,1314,2,Alabama,8,North Carolina
+2021,1104,1458,2,Alabama,9,Wisconsin
+2021,1104,1439,2,Alabama,10,Virginia Tech
+2021,1104,1429,2,Alabama,11,Utah St
+2021,1104,1457,2,Alabama,12,Winthrop
+2021,1104,1317,2,Alabama,13,North Texas
+2021,1104,1159,2,Alabama,14,Colgate
+2021,1104,1331,2,Alabama,15,Oral Roberts
+2021,1104,1216,2,Alabama,16,Hartford
+2021,1400,1417,3,Texas,11,UCLA
+2021,1400,1422,3,Texas,13,UNC Greensboro
+2021,1400,1411,3,Texas,16,TX Southern
+2021,1400,1438,3,Texas,4,Virginia
+2021,1400,1425,3,Texas,6,USC
+2021,1400,1433,3,Texas,10,VCU
+2021,1400,1455,3,Texas,11,Wichita St
+2021,1400,1452,3,Texas,3,West Virginia
+2021,1400,1437,3,Texas,5,Villanova
+2021,1400,1403,3,Texas,6,Texas Tech
+2021,1400,1458,3,Texas,9,Wisconsin
+2021,1400,1439,3,Texas,10,Virginia Tech
+2021,1400,1429,3,Texas,11,Utah St
+2021,1400,1457,3,Texas,12,Winthrop
+2021,1199,1276,4,Florida St,1,Michigan
+2021,1199,1400,4,Florida St,3,Texas
+2021,1199,1261,4,Florida St,8,LSU
+2021,1199,1382,4,Florida St,9,St Bonaventure
+2021,1199,1268,4,Florida St,10,Maryland
+2021,1199,1277,4,Florida St,11,Michigan St
+2021,1199,1417,4,Florida St,11,UCLA
+2021,1199,1207,4,Florida St,12,Georgetown
+2021,1199,1422,4,Florida St,13,UNC Greensboro
+2021,1199,1233,4,Florida St,15,Iona
+2021,1199,1291,4,Florida St,16,Mt St Mary's
+2021,1199,1411,4,Florida St,16,TX Southern
+2021,1199,1211,4,Florida St,1,Gonzaga
+2021,1199,1234,4,Florida St,2,Iowa
+2021,1199,1242,4,Florida St,3,Kansas
+2021,1199,1438,4,Florida St,4,Virginia
+2021,1199,1425,4,Florida St,6,USC
+2021,1199,1332,4,Florida St,7,Oregon
+2021,1199,1328,4,Florida St,8,Oklahoma
+2021,1199,1281,4,Florida St,9,Missouri
+2021,1199,1433,4,Florida St,10,VCU
+2021,1199,1455,4,Florida St,11,Wichita St
+2021,1199,1364,4,Florida St,12,UC Santa Barbara
+2021,1199,1325,4,Florida St,13,Ohio
+2021,1199,1213,4,Florida St,15,Grand Canyon
+2021,1199,1313,4,Florida St,16,Norfolk St
+2021,1199,1228,4,Florida St,1,Illinois
+2021,1199,1222,4,Florida St,2,Houston
+2021,1199,1452,4,Florida St,3,West Virginia
+2021,1199,1329,4,Florida St,4,Oklahoma St
+2021,1199,1397,4,Florida St,5,Tennessee
+2021,1199,1361,4,Florida St,6,San Diego St
+2021,1199,1260,4,Florida St,8,Loyola-Chicago
+2021,1199,1210,4,Florida St,9,Georgia Tech
+2021,1199,1353,4,Florida St,10,Rutgers
+2021,1199,1393,4,Florida St,11,Syracuse
+2021,1199,1333,4,Florida St,12,Oregon St
+2021,1199,1251,4,Florida St,13,Liberty
+2021,1199,1287,4,Florida St,14,Morehead St
+2021,1199,1326,4,Florida St,2,Ohio St
+2021,1199,1345,4,Florida St,4,Purdue
+2021,1199,1437,4,Florida St,5,Villanova
+2021,1199,1403,4,Florida St,6,Texas Tech
+2021,1199,1314,4,Florida St,8,North Carolina
+2021,1199,1458,4,Florida St,9,Wisconsin
+2021,1199,1439,4,Florida St,10,Virginia Tech
+2021,1199,1429,4,Florida St,11,Utah St
+2021,1199,1457,4,Florida St,12,Winthrop
+2021,1199,1317,4,Florida St,13,North Texas
+2021,1199,1331,4,Florida St,15,Oral Roberts
+2021,1199,1216,4,Florida St,16,Hartford
+2021,1160,1276,5,Colorado,1,Michigan
+2021,1160,1400,5,Colorado,3,Texas
+2021,1160,1199,5,Colorado,4,Florida St
+2021,1160,1163,5,Colorado,7,Connecticut
+2021,1160,1261,5,Colorado,8,LSU
+2021,1160,1382,5,Colorado,9,St Bonaventure
+2021,1160,1268,5,Colorado,10,Maryland
+2021,1160,1277,5,Colorado,11,Michigan St
+2021,1160,1417,5,Colorado,11,UCLA
+2021,1160,1207,5,Colorado,12,Georgetown
+2021,1160,1422,5,Colorado,13,UNC Greensboro
+2021,1160,1233,5,Colorado,15,Iona
+2021,1160,1291,5,Colorado,16,Mt St Mary's
+2021,1160,1411,5,Colorado,16,TX Southern
+2021,1160,1211,5,Colorado,1,Gonzaga
+2021,1160,1234,5,Colorado,2,Iowa
+2021,1160,1242,5,Colorado,3,Kansas
+2021,1160,1438,5,Colorado,4,Virginia
+2021,1160,1166,5,Colorado,5,Creighton
+2021,1160,1425,5,Colorado,6,USC
+2021,1160,1332,5,Colorado,7,Oregon
+2021,1160,1328,5,Colorado,8,Oklahoma
+2021,1160,1281,5,Colorado,9,Missouri
+2021,1160,1433,5,Colorado,10,VCU
+2021,1160,1179,5,Colorado,11,Drake
+2021,1160,1455,5,Colorado,11,Wichita St
+2021,1160,1364,5,Colorado,12,UC Santa Barbara
+2021,1160,1325,5,Colorado,13,Ohio
+2021,1160,1186,5,Colorado,14,E Washington
+2021,1160,1213,5,Colorado,15,Grand Canyon
+2021,1160,1313,5,Colorado,16,Norfolk St
+2021,1160,1228,5,Colorado,1,Illinois
+2021,1160,1222,5,Colorado,2,Houston
+2021,1160,1452,5,Colorado,3,West Virginia
+2021,1160,1329,5,Colorado,4,Oklahoma St
+2021,1160,1397,5,Colorado,5,Tennessee
+2021,1160,1361,5,Colorado,6,San Diego St
+2021,1160,1260,5,Colorado,8,Loyola-Chicago
+2021,1160,1210,5,Colorado,9,Georgia Tech
+2021,1160,1353,5,Colorado,10,Rutgers
+2021,1160,1393,5,Colorado,11,Syracuse
+2021,1160,1333,5,Colorado,12,Oregon St
+2021,1160,1251,5,Colorado,13,Liberty
+2021,1160,1287,5,Colorado,14,Morehead St
+2021,1160,1180,5,Colorado,16,Drexel
+2021,1160,1326,5,Colorado,2,Ohio St
+2021,1160,1345,5,Colorado,4,Purdue
+2021,1160,1437,5,Colorado,5,Villanova
+2021,1160,1403,5,Colorado,6,Texas Tech
+2021,1160,1196,5,Colorado,7,Florida
+2021,1160,1314,5,Colorado,8,North Carolina
+2021,1160,1458,5,Colorado,9,Wisconsin
+2021,1160,1439,5,Colorado,10,Virginia Tech
+2021,1160,1429,5,Colorado,11,Utah St
+2021,1160,1457,5,Colorado,12,Winthrop
+2021,1160,1317,5,Colorado,13,North Texas
+2021,1160,1331,5,Colorado,15,Oral Roberts
+2021,1160,1216,5,Colorado,16,Hartford
+2021,1140,1276,6,BYU,1,Michigan
+2021,1140,1400,6,BYU,3,Texas
+2021,1140,1199,6,BYU,4,Florida St
+2021,1140,1160,6,BYU,5,Colorado
+2021,1140,1163,6,BYU,7,Connecticut
+2021,1140,1261,6,BYU,8,LSU
+2021,1140,1382,6,BYU,9,St Bonaventure
+2021,1140,1268,6,BYU,10,Maryland
+2021,1140,1277,6,BYU,11,Michigan St
+2021,1140,1417,6,BYU,11,UCLA
+2021,1140,1207,6,BYU,12,Georgetown
+2021,1140,1422,6,BYU,13,UNC Greensboro
+2021,1140,1233,6,BYU,15,Iona
+2021,1140,1291,6,BYU,16,Mt St Mary's
+2021,1140,1411,6,BYU,16,TX Southern
+2021,1140,1211,6,BYU,1,Gonzaga
+2021,1140,1234,6,BYU,2,Iowa
+2021,1140,1242,6,BYU,3,Kansas
+2021,1140,1438,6,BYU,4,Virginia
+2021,1140,1166,6,BYU,5,Creighton
+2021,1140,1425,6,BYU,6,USC
+2021,1140,1332,6,BYU,7,Oregon
+2021,1140,1328,6,BYU,8,Oklahoma
+2021,1140,1281,6,BYU,9,Missouri
+2021,1140,1433,6,BYU,10,VCU
+2021,1140,1179,6,BYU,11,Drake
+2021,1140,1455,6,BYU,11,Wichita St
+2021,1140,1364,6,BYU,12,UC Santa Barbara
+2021,1140,1325,6,BYU,13,Ohio
+2021,1140,1186,6,BYU,14,E Washington
+2021,1140,1213,6,BYU,15,Grand Canyon
+2021,1140,1313,6,BYU,16,Norfolk St
+2021,1140,1228,6,BYU,1,Illinois
+2021,1140,1222,6,BYU,2,Houston
+2021,1140,1452,6,BYU,3,West Virginia
+2021,1140,1329,6,BYU,4,Oklahoma St
+2021,1140,1397,6,BYU,5,Tennessee
+2021,1140,1361,6,BYU,6,San Diego St
+2021,1140,1155,6,BYU,7,Clemson
+2021,1140,1260,6,BYU,8,Loyola-Chicago
+2021,1140,1210,6,BYU,9,Georgia Tech
+2021,1140,1353,6,BYU,10,Rutgers
+2021,1140,1393,6,BYU,11,Syracuse
+2021,1140,1333,6,BYU,12,Oregon St
+2021,1140,1251,6,BYU,13,Liberty
+2021,1140,1287,6,BYU,14,Morehead St
+2021,1140,1156,6,BYU,15,Cleveland St
+2021,1140,1180,6,BYU,16,Drexel
+2021,1140,1326,6,BYU,2,Ohio St
+2021,1140,1345,6,BYU,4,Purdue
+2021,1140,1437,6,BYU,5,Villanova
+2021,1140,1403,6,BYU,6,Texas Tech
+2021,1140,1196,6,BYU,7,Florida
+2021,1140,1314,6,BYU,8,North Carolina
+2021,1140,1458,6,BYU,9,Wisconsin
+2021,1140,1439,6,BYU,10,Virginia Tech
+2021,1140,1429,6,BYU,11,Utah St
+2021,1140,1457,6,BYU,12,Winthrop
+2021,1140,1317,6,BYU,13,North Texas
+2021,1140,1159,6,BYU,14,Colgate
+2021,1140,1331,6,BYU,15,Oral Roberts
+2021,1140,1216,6,BYU,16,Hartford
+2021,1163,1276,7,Connecticut,1,Michigan
+2021,1163,1400,7,Connecticut,3,Texas
+2021,1163,1199,7,Connecticut,4,Florida St
+2021,1163,1261,7,Connecticut,8,LSU
+2021,1163,1382,7,Connecticut,9,St Bonaventure
+2021,1163,1268,7,Connecticut,10,Maryland
+2021,1163,1277,7,Connecticut,11,Michigan St
+2021,1163,1417,7,Connecticut,11,UCLA
+2021,1163,1207,7,Connecticut,12,Georgetown
+2021,1163,1422,7,Connecticut,13,UNC Greensboro
+2021,1163,1233,7,Connecticut,15,Iona
+2021,1163,1291,7,Connecticut,16,Mt St Mary's
+2021,1163,1411,7,Connecticut,16,TX Southern
+2021,1163,1211,7,Connecticut,1,Gonzaga
+2021,1163,1234,7,Connecticut,2,Iowa
+2021,1163,1242,7,Connecticut,3,Kansas
+2021,1163,1438,7,Connecticut,4,Virginia
+2021,1163,1166,7,Connecticut,5,Creighton
+2021,1163,1425,7,Connecticut,6,USC
+2021,1163,1332,7,Connecticut,7,Oregon
+2021,1163,1328,7,Connecticut,8,Oklahoma
+2021,1163,1281,7,Connecticut,9,Missouri
+2021,1163,1433,7,Connecticut,10,VCU
+2021,1163,1179,7,Connecticut,11,Drake
+2021,1163,1455,7,Connecticut,11,Wichita St
+2021,1163,1364,7,Connecticut,12,UC Santa Barbara
+2021,1163,1325,7,Connecticut,13,Ohio
+2021,1163,1186,7,Connecticut,14,E Washington
+2021,1163,1213,7,Connecticut,15,Grand Canyon
+2021,1163,1313,7,Connecticut,16,Norfolk St
+2021,1163,1228,7,Connecticut,1,Illinois
+2021,1163,1222,7,Connecticut,2,Houston
+2021,1163,1452,7,Connecticut,3,West Virginia
+2021,1163,1329,7,Connecticut,4,Oklahoma St
+2021,1163,1397,7,Connecticut,5,Tennessee
+2021,1163,1361,7,Connecticut,6,San Diego St
+2021,1163,1260,7,Connecticut,8,Loyola-Chicago
+2021,1163,1210,7,Connecticut,9,Georgia Tech
+2021,1163,1353,7,Connecticut,10,Rutgers
+2021,1163,1393,7,Connecticut,11,Syracuse
+2021,1163,1333,7,Connecticut,12,Oregon St
+2021,1163,1251,7,Connecticut,13,Liberty
+2021,1163,1287,7,Connecticut,14,Morehead St
+2021,1163,1180,7,Connecticut,16,Drexel
+2021,1163,1326,7,Connecticut,2,Ohio St
+2021,1163,1345,7,Connecticut,4,Purdue
+2021,1163,1437,7,Connecticut,5,Villanova
+2021,1163,1403,7,Connecticut,6,Texas Tech
+2021,1163,1196,7,Connecticut,7,Florida
+2021,1163,1314,7,Connecticut,8,North Carolina
+2021,1163,1458,7,Connecticut,9,Wisconsin
+2021,1163,1439,7,Connecticut,10,Virginia Tech
+2021,1163,1429,7,Connecticut,11,Utah St
+2021,1163,1457,7,Connecticut,12,Winthrop
+2021,1163,1317,7,Connecticut,13,North Texas
+2021,1163,1331,7,Connecticut,15,Oral Roberts
+2021,1163,1216,7,Connecticut,16,Hartford
+2021,1261,1276,8,LSU,1,Michigan
+2021,1261,1400,8,LSU,3,Texas
+2021,1261,1382,8,LSU,9,St Bonaventure
+2021,1261,1268,8,LSU,10,Maryland
+2021,1261,1277,8,LSU,11,Michigan St
+2021,1261,1417,8,LSU,11,UCLA
+2021,1261,1422,8,LSU,13,UNC Greensboro
+2021,1261,1291,8,LSU,16,Mt St Mary's
+2021,1261,1411,8,LSU,16,TX Southern
+2021,1261,1438,8,LSU,4,Virginia
+2021,1261,1425,8,LSU,6,USC
+2021,1261,1332,8,LSU,7,Oregon
+2021,1261,1328,8,LSU,8,Oklahoma
+2021,1261,1281,8,LSU,9,Missouri
+2021,1261,1433,8,LSU,10,VCU
+2021,1261,1455,8,LSU,11,Wichita St
+2021,1261,1364,8,LSU,12,UC Santa Barbara
+2021,1261,1325,8,LSU,13,Ohio
+2021,1261,1313,8,LSU,16,Norfolk St
+2021,1261,1452,8,LSU,3,West Virginia
+2021,1261,1329,8,LSU,4,Oklahoma St
+2021,1261,1397,8,LSU,5,Tennessee
+2021,1261,1361,8,LSU,6,San Diego St
+2021,1261,1353,8,LSU,10,Rutgers
+2021,1261,1393,8,LSU,11,Syracuse
+2021,1261,1333,8,LSU,12,Oregon St
+2021,1261,1287,8,LSU,14,Morehead St
+2021,1261,1326,8,LSU,2,Ohio St
+2021,1261,1345,8,LSU,4,Purdue
+2021,1261,1437,8,LSU,5,Villanova
+2021,1261,1403,8,LSU,6,Texas Tech
+2021,1261,1314,8,LSU,8,North Carolina
+2021,1261,1458,8,LSU,9,Wisconsin
+2021,1261,1439,8,LSU,10,Virginia Tech
+2021,1261,1429,8,LSU,11,Utah St
+2021,1261,1457,8,LSU,12,Winthrop
+2021,1261,1317,8,LSU,13,North Texas
+2021,1261,1331,8,LSU,15,Oral Roberts
+2021,1382,1400,9,St Bonaventure,3,Texas
+2021,1382,1417,9,St Bonaventure,11,UCLA
+2021,1382,1422,9,St Bonaventure,13,UNC Greensboro
+2021,1382,1411,9,St Bonaventure,16,TX Southern
+2021,1382,1438,9,St Bonaventure,4,Virginia
+2021,1382,1425,9,St Bonaventure,6,USC
+2021,1382,1433,9,St Bonaventure,10,VCU
+2021,1382,1455,9,St Bonaventure,11,Wichita St
+2021,1382,1452,9,St Bonaventure,3,West Virginia
+2021,1382,1397,9,St Bonaventure,5,Tennessee
+2021,1382,1393,9,St Bonaventure,11,Syracuse
+2021,1382,1437,9,St Bonaventure,5,Villanova
+2021,1382,1403,9,St Bonaventure,6,Texas Tech
+2021,1382,1458,9,St Bonaventure,9,Wisconsin
+2021,1382,1439,9,St Bonaventure,10,Virginia Tech
+2021,1382,1429,9,St Bonaventure,11,Utah St
+2021,1382,1457,9,St Bonaventure,12,Winthrop
+2021,1268,1276,10,Maryland,1,Michigan
+2021,1268,1400,10,Maryland,3,Texas
+2021,1268,1382,10,Maryland,9,St Bonaventure
+2021,1268,1277,10,Maryland,11,Michigan St
+2021,1268,1417,10,Maryland,11,UCLA
+2021,1268,1422,10,Maryland,13,UNC Greensboro
+2021,1268,1291,10,Maryland,16,Mt St Mary's
+2021,1268,1411,10,Maryland,16,TX Southern
+2021,1268,1438,10,Maryland,4,Virginia
+2021,1268,1425,10,Maryland,6,USC
+2021,1268,1332,10,Maryland,7,Oregon
+2021,1268,1328,10,Maryland,8,Oklahoma
+2021,1268,1281,10,Maryland,9,Missouri
+2021,1268,1433,10,Maryland,10,VCU
+2021,1268,1455,10,Maryland,11,Wichita St
+2021,1268,1364,10,Maryland,12,UC Santa Barbara
+2021,1268,1325,10,Maryland,13,Ohio
+2021,1268,1313,10,Maryland,16,Norfolk St
+2021,1268,1452,10,Maryland,3,West Virginia
+2021,1268,1329,10,Maryland,4,Oklahoma St
+2021,1268,1397,10,Maryland,5,Tennessee
+2021,1268,1361,10,Maryland,6,San Diego St
+2021,1268,1353,10,Maryland,10,Rutgers
+2021,1268,1393,10,Maryland,11,Syracuse
+2021,1268,1333,10,Maryland,12,Oregon St
+2021,1268,1287,10,Maryland,14,Morehead St
+2021,1268,1326,10,Maryland,2,Ohio St
+2021,1268,1345,10,Maryland,4,Purdue
+2021,1268,1437,10,Maryland,5,Villanova
+2021,1268,1403,10,Maryland,6,Texas Tech
+2021,1268,1314,10,Maryland,8,North Carolina
+2021,1268,1458,10,Maryland,9,Wisconsin
+2021,1268,1439,10,Maryland,10,Virginia Tech
+2021,1268,1429,10,Maryland,11,Utah St
+2021,1268,1457,10,Maryland,12,Winthrop
+2021,1268,1317,10,Maryland,13,North Texas
+2021,1268,1331,10,Maryland,15,Oral Roberts
+2021,1277,1400,11,Michigan St,3,Texas
+2021,1277,1382,11,Michigan St,9,St Bonaventure
+2021,1277,1417,11,Michigan St,11,UCLA
+2021,1277,1422,11,Michigan St,13,UNC Greensboro
+2021,1277,1291,11,Michigan St,16,Mt St Mary's
+2021,1277,1411,11,Michigan St,16,TX Southern
+2021,1277,1438,11,Michigan St,4,Virginia
+2021,1277,1425,11,Michigan St,6,USC
+2021,1277,1332,11,Michigan St,7,Oregon
+2021,1277,1328,11,Michigan St,8,Oklahoma
+2021,1277,1281,11,Michigan St,9,Missouri
+2021,1277,1433,11,Michigan St,10,VCU
+2021,1277,1455,11,Michigan St,11,Wichita St
+2021,1277,1364,11,Michigan St,12,UC Santa Barbara
+2021,1277,1325,11,Michigan St,13,Ohio
+2021,1277,1313,11,Michigan St,16,Norfolk St
+2021,1277,1452,11,Michigan St,3,West Virginia
+2021,1277,1329,11,Michigan St,4,Oklahoma St
+2021,1277,1397,11,Michigan St,5,Tennessee
+2021,1277,1361,11,Michigan St,6,San Diego St
+2021,1277,1353,11,Michigan St,10,Rutgers
+2021,1277,1393,11,Michigan St,11,Syracuse
+2021,1277,1333,11,Michigan St,12,Oregon St
+2021,1277,1287,11,Michigan St,14,Morehead St
+2021,1277,1326,11,Michigan St,2,Ohio St
+2021,1277,1345,11,Michigan St,4,Purdue
+2021,1277,1437,11,Michigan St,5,Villanova
+2021,1277,1403,11,Michigan St,6,Texas Tech
+2021,1277,1314,11,Michigan St,8,North Carolina
+2021,1277,1458,11,Michigan St,9,Wisconsin
+2021,1277,1439,11,Michigan St,10,Virginia Tech
+2021,1277,1429,11,Michigan St,11,Utah St
+2021,1277,1457,11,Michigan St,12,Winthrop
+2021,1277,1317,11,Michigan St,13,North Texas
+2021,1277,1331,11,Michigan St,15,Oral Roberts
+2021,1417,1422,11,UCLA,13,UNC Greensboro
+2021,1417,1438,11,UCLA,4,Virginia
+2021,1417,1425,11,UCLA,6,USC
+2021,1417,1433,11,UCLA,10,VCU
+2021,1417,1455,11,UCLA,11,Wichita St
+2021,1417,1452,11,UCLA,3,West Virginia
+2021,1417,1437,11,UCLA,5,Villanova
+2021,1417,1458,11,UCLA,9,Wisconsin
+2021,1417,1439,11,UCLA,10,Virginia Tech
+2021,1417,1429,11,UCLA,11,Utah St
+2021,1417,1457,11,UCLA,12,Winthrop
+2021,1207,1276,12,Georgetown,1,Michigan
+2021,1207,1400,12,Georgetown,3,Texas
+2021,1207,1261,12,Georgetown,8,LSU
+2021,1207,1382,12,Georgetown,9,St Bonaventure
+2021,1207,1268,12,Georgetown,10,Maryland
+2021,1207,1277,12,Georgetown,11,Michigan St
+2021,1207,1417,12,Georgetown,11,UCLA
+2021,1207,1422,12,Georgetown,13,UNC Greensboro
+2021,1207,1233,12,Georgetown,15,Iona
+2021,1207,1291,12,Georgetown,16,Mt St Mary's
+2021,1207,1411,12,Georgetown,16,TX Southern
+2021,1207,1211,12,Georgetown,1,Gonzaga
+2021,1207,1234,12,Georgetown,2,Iowa
+2021,1207,1242,12,Georgetown,3,Kansas
+2021,1207,1438,12,Georgetown,4,Virginia
+2021,1207,1425,12,Georgetown,6,USC
+2021,1207,1332,12,Georgetown,7,Oregon
+2021,1207,1328,12,Georgetown,8,Oklahoma
+2021,1207,1281,12,Georgetown,9,Missouri
+2021,1207,1433,12,Georgetown,10,VCU
+2021,1207,1455,12,Georgetown,11,Wichita St
+2021,1207,1364,12,Georgetown,12,UC Santa Barbara
+2021,1207,1325,12,Georgetown,13,Ohio
+2021,1207,1213,12,Georgetown,15,Grand Canyon
+2021,1207,1313,12,Georgetown,16,Norfolk St
+2021,1207,1228,12,Georgetown,1,Illinois
+2021,1207,1222,12,Georgetown,2,Houston
+2021,1207,1452,12,Georgetown,3,West Virginia
+2021,1207,1329,12,Georgetown,4,Oklahoma St
+2021,1207,1397,12,Georgetown,5,Tennessee
+2021,1207,1361,12,Georgetown,6,San Diego St
+2021,1207,1260,12,Georgetown,8,Loyola-Chicago
+2021,1207,1210,12,Georgetown,9,Georgia Tech
+2021,1207,1353,12,Georgetown,10,Rutgers
+2021,1207,1393,12,Georgetown,11,Syracuse
+2021,1207,1333,12,Georgetown,12,Oregon St
+2021,1207,1251,12,Georgetown,13,Liberty
+2021,1207,1287,12,Georgetown,14,Morehead St
+2021,1207,1326,12,Georgetown,2,Ohio St
+2021,1207,1345,12,Georgetown,4,Purdue
+2021,1207,1437,12,Georgetown,5,Villanova
+2021,1207,1403,12,Georgetown,6,Texas Tech
+2021,1207,1314,12,Georgetown,8,North Carolina
+2021,1207,1458,12,Georgetown,9,Wisconsin
+2021,1207,1439,12,Georgetown,10,Virginia Tech
+2021,1207,1429,12,Georgetown,11,Utah St
+2021,1207,1457,12,Georgetown,12,Winthrop
+2021,1207,1317,12,Georgetown,13,North Texas
+2021,1207,1331,12,Georgetown,15,Oral Roberts
+2021,1207,1216,12,Georgetown,16,Hartford
+2021,1422,1438,13,UNC Greensboro,4,Virginia
+2021,1422,1425,13,UNC Greensboro,6,USC
+2021,1422,1433,13,UNC Greensboro,10,VCU
+2021,1422,1455,13,UNC Greensboro,11,Wichita St
+2021,1422,1452,13,UNC Greensboro,3,West Virginia
+2021,1422,1437,13,UNC Greensboro,5,Villanova
+2021,1422,1458,13,UNC Greensboro,9,Wisconsin
+2021,1422,1439,13,UNC Greensboro,10,Virginia Tech
+2021,1422,1429,13,UNC Greensboro,11,Utah St
+2021,1422,1457,13,UNC Greensboro,12,Winthrop
+2021,1101,1276,14,Abilene Chr,1,Michigan
+2021,1101,1104,14,Abilene Chr,2,Alabama
+2021,1101,1400,14,Abilene Chr,3,Texas
+2021,1101,1199,14,Abilene Chr,4,Florida St
+2021,1101,1160,14,Abilene Chr,5,Colorado
+2021,1101,1140,14,Abilene Chr,6,BYU
+2021,1101,1163,14,Abilene Chr,7,Connecticut
+2021,1101,1261,14,Abilene Chr,8,LSU
+2021,1101,1382,14,Abilene Chr,9,St Bonaventure
+2021,1101,1268,14,Abilene Chr,10,Maryland
+2021,1101,1277,14,Abilene Chr,11,Michigan St
+2021,1101,1417,14,Abilene Chr,11,UCLA
+2021,1101,1207,14,Abilene Chr,12,Georgetown
+2021,1101,1422,14,Abilene Chr,13,UNC Greensboro
+2021,1101,1233,14,Abilene Chr,15,Iona
+2021,1101,1291,14,Abilene Chr,16,Mt St Mary's
+2021,1101,1411,14,Abilene Chr,16,TX Southern
+2021,1101,1211,14,Abilene Chr,1,Gonzaga
+2021,1101,1234,14,Abilene Chr,2,Iowa
+2021,1101,1242,14,Abilene Chr,3,Kansas
+2021,1101,1438,14,Abilene Chr,4,Virginia
+2021,1101,1166,14,Abilene Chr,5,Creighton
+2021,1101,1425,14,Abilene Chr,6,USC
+2021,1101,1332,14,Abilene Chr,7,Oregon
+2021,1101,1328,14,Abilene Chr,8,Oklahoma
+2021,1101,1281,14,Abilene Chr,9,Missouri
+2021,1101,1433,14,Abilene Chr,10,VCU
+2021,1101,1179,14,Abilene Chr,11,Drake
+2021,1101,1455,14,Abilene Chr,11,Wichita St
+2021,1101,1364,14,Abilene Chr,12,UC Santa Barbara
+2021,1101,1325,14,Abilene Chr,13,Ohio
+2021,1101,1186,14,Abilene Chr,14,E Washington
+2021,1101,1213,14,Abilene Chr,15,Grand Canyon
+2021,1101,1111,14,Abilene Chr,16,Appalachian St
+2021,1101,1313,14,Abilene Chr,16,Norfolk St
+2021,1101,1228,14,Abilene Chr,1,Illinois
+2021,1101,1222,14,Abilene Chr,2,Houston
+2021,1101,1452,14,Abilene Chr,3,West Virginia
+2021,1101,1329,14,Abilene Chr,4,Oklahoma St
+2021,1101,1397,14,Abilene Chr,5,Tennessee
+2021,1101,1361,14,Abilene Chr,6,San Diego St
+2021,1101,1155,14,Abilene Chr,7,Clemson
+2021,1101,1260,14,Abilene Chr,8,Loyola-Chicago
+2021,1101,1210,14,Abilene Chr,9,Georgia Tech
+2021,1101,1353,14,Abilene Chr,10,Rutgers
+2021,1101,1393,14,Abilene Chr,11,Syracuse
+2021,1101,1333,14,Abilene Chr,12,Oregon St
+2021,1101,1251,14,Abilene Chr,13,Liberty
+2021,1101,1287,14,Abilene Chr,14,Morehead St
+2021,1101,1156,14,Abilene Chr,15,Cleveland St
+2021,1101,1180,14,Abilene Chr,16,Drexel
+2021,1101,1124,14,Abilene Chr,1,Baylor
+2021,1101,1326,14,Abilene Chr,2,Ohio St
+2021,1101,1116,14,Abilene Chr,3,Arkansas
+2021,1101,1345,14,Abilene Chr,4,Purdue
+2021,1101,1437,14,Abilene Chr,5,Villanova
+2021,1101,1403,14,Abilene Chr,6,Texas Tech
+2021,1101,1196,14,Abilene Chr,7,Florida
+2021,1101,1314,14,Abilene Chr,8,North Carolina
+2021,1101,1458,14,Abilene Chr,9,Wisconsin
+2021,1101,1439,14,Abilene Chr,10,Virginia Tech
+2021,1101,1429,14,Abilene Chr,11,Utah St
+2021,1101,1457,14,Abilene Chr,12,Winthrop
+2021,1101,1317,14,Abilene Chr,13,North Texas
+2021,1101,1159,14,Abilene Chr,14,Colgate
+2021,1101,1331,14,Abilene Chr,15,Oral Roberts
+2021,1101,1216,14,Abilene Chr,16,Hartford
+2021,1233,1276,15,Iona,1,Michigan
+2021,1233,1400,15,Iona,3,Texas
+2021,1233,1261,15,Iona,8,LSU
+2021,1233,1382,15,Iona,9,St Bonaventure
+2021,1233,1268,15,Iona,10,Maryland
+2021,1233,1277,15,Iona,11,Michigan St
+2021,1233,1417,15,Iona,11,UCLA
+2021,1233,1422,15,Iona,13,UNC Greensboro
+2021,1233,1291,15,Iona,16,Mt St Mary's
+2021,1233,1411,15,Iona,16,TX Southern
+2021,1233,1234,15,Iona,2,Iowa
+2021,1233,1242,15,Iona,3,Kansas
+2021,1233,1438,15,Iona,4,Virginia
+2021,1233,1425,15,Iona,6,USC
+2021,1233,1332,15,Iona,7,Oregon
+2021,1233,1328,15,Iona,8,Oklahoma
+2021,1233,1281,15,Iona,9,Missouri
+2021,1233,1433,15,Iona,10,VCU
+2021,1233,1455,15,Iona,11,Wichita St
+2021,1233,1364,15,Iona,12,UC Santa Barbara
+2021,1233,1325,15,Iona,13,Ohio
+2021,1233,1313,15,Iona,16,Norfolk St
+2021,1233,1452,15,Iona,3,West Virginia
+2021,1233,1329,15,Iona,4,Oklahoma St
+2021,1233,1397,15,Iona,5,Tennessee
+2021,1233,1361,15,Iona,6,San Diego St
+2021,1233,1260,15,Iona,8,Loyola-Chicago
+2021,1233,1353,15,Iona,10,Rutgers
+2021,1233,1393,15,Iona,11,Syracuse
+2021,1233,1333,15,Iona,12,Oregon St
+2021,1233,1251,15,Iona,13,Liberty
+2021,1233,1287,15,Iona,14,Morehead St
+2021,1233,1326,15,Iona,2,Ohio St
+2021,1233,1345,15,Iona,4,Purdue
+2021,1233,1437,15,Iona,5,Villanova
+2021,1233,1403,15,Iona,6,Texas Tech
+2021,1233,1314,15,Iona,8,North Carolina
+2021,1233,1458,15,Iona,9,Wisconsin
+2021,1233,1439,15,Iona,10,Virginia Tech
+2021,1233,1429,15,Iona,11,Utah St
+2021,1233,1457,15,Iona,12,Winthrop
+2021,1233,1317,15,Iona,13,North Texas
+2021,1233,1331,15,Iona,15,Oral Roberts
+2021,1291,1400,16,Mt St Mary's,3,Texas
+2021,1291,1382,16,Mt St Mary's,9,St Bonaventure
+2021,1291,1417,16,Mt St Mary's,11,UCLA
+2021,1291,1422,16,Mt St Mary's,13,UNC Greensboro
+2021,1291,1411,16,Mt St Mary's,16,TX Southern
+2021,1291,1438,16,Mt St Mary's,4,Virginia
+2021,1291,1425,16,Mt St Mary's,6,USC
+2021,1291,1332,16,Mt St Mary's,7,Oregon
+2021,1291,1328,16,Mt St Mary's,8,Oklahoma
+2021,1291,1433,16,Mt St Mary's,10,VCU
+2021,1291,1455,16,Mt St Mary's,11,Wichita St
+2021,1291,1364,16,Mt St Mary's,12,UC Santa Barbara
+2021,1291,1325,16,Mt St Mary's,13,Ohio
+2021,1291,1313,16,Mt St Mary's,16,Norfolk St
+2021,1291,1452,16,Mt St Mary's,3,West Virginia
+2021,1291,1329,16,Mt St Mary's,4,Oklahoma St
+2021,1291,1397,16,Mt St Mary's,5,Tennessee
+2021,1291,1361,16,Mt St Mary's,6,San Diego St
+2021,1291,1353,16,Mt St Mary's,10,Rutgers
+2021,1291,1393,16,Mt St Mary's,11,Syracuse
+2021,1291,1333,16,Mt St Mary's,12,Oregon St
+2021,1291,1326,16,Mt St Mary's,2,Ohio St
+2021,1291,1345,16,Mt St Mary's,4,Purdue
+2021,1291,1437,16,Mt St Mary's,5,Villanova
+2021,1291,1403,16,Mt St Mary's,6,Texas Tech
+2021,1291,1314,16,Mt St Mary's,8,North Carolina
+2021,1291,1458,16,Mt St Mary's,9,Wisconsin
+2021,1291,1439,16,Mt St Mary's,10,Virginia Tech
+2021,1291,1429,16,Mt St Mary's,11,Utah St
+2021,1291,1457,16,Mt St Mary's,12,Winthrop
+2021,1291,1317,16,Mt St Mary's,13,North Texas
+2021,1291,1331,16,Mt St Mary's,15,Oral Roberts
+2021,1411,1417,16,TX Southern,11,UCLA
+2021,1411,1422,16,TX Southern,13,UNC Greensboro
+2021,1411,1438,16,TX Southern,4,Virginia
+2021,1411,1425,16,TX Southern,6,USC
+2021,1411,1433,16,TX Southern,10,VCU
+2021,1411,1455,16,TX Southern,11,Wichita St
+2021,1411,1452,16,TX Southern,3,West Virginia
+2021,1411,1437,16,TX Southern,5,Villanova
+2021,1411,1458,16,TX Southern,9,Wisconsin
+2021,1411,1439,16,TX Southern,10,Virginia Tech
+2021,1411,1429,16,TX Southern,11,Utah St
+2021,1411,1457,16,TX Southern,12,Winthrop
+2021,1211,1276,1,Gonzaga,1,Michigan
+2021,1211,1400,1,Gonzaga,3,Texas
+2021,1211,1261,1,Gonzaga,8,LSU
+2021,1211,1382,1,Gonzaga,9,St Bonaventure
+2021,1211,1268,1,Gonzaga,10,Maryland
+2021,1211,1277,1,Gonzaga,11,Michigan St
+2021,1211,1417,1,Gonzaga,11,UCLA
+2021,1211,1422,1,Gonzaga,13,UNC Greensboro
+2021,1211,1233,1,Gonzaga,15,Iona
+2021,1211,1291,1,Gonzaga,16,Mt St Mary's
+2021,1211,1411,1,Gonzaga,16,TX Southern
+2021,1211,1234,1,Gonzaga,2,Iowa
+2021,1211,1242,1,Gonzaga,3,Kansas
+2021,1211,1438,1,Gonzaga,4,Virginia
+2021,1211,1425,1,Gonzaga,6,USC
+2021,1211,1332,1,Gonzaga,7,Oregon
+2021,1211,1328,1,Gonzaga,8,Oklahoma
+2021,1211,1281,1,Gonzaga,9,Missouri
+2021,1211,1433,1,Gonzaga,10,VCU
+2021,1211,1455,1,Gonzaga,11,Wichita St
+2021,1211,1364,1,Gonzaga,12,UC Santa Barbara
+2021,1211,1325,1,Gonzaga,13,Ohio
+2021,1211,1213,1,Gonzaga,15,Grand Canyon
+2021,1211,1313,1,Gonzaga,16,Norfolk St
+2021,1211,1228,1,Gonzaga,1,Illinois
+2021,1211,1222,1,Gonzaga,2,Houston
+2021,1211,1452,1,Gonzaga,3,West Virginia
+2021,1211,1329,1,Gonzaga,4,Oklahoma St
+2021,1211,1397,1,Gonzaga,5,Tennessee
+2021,1211,1361,1,Gonzaga,6,San Diego St
+2021,1211,1260,1,Gonzaga,8,Loyola-Chicago
+2021,1211,1353,1,Gonzaga,10,Rutgers
+2021,1211,1393,1,Gonzaga,11,Syracuse
+2021,1211,1333,1,Gonzaga,12,Oregon St
+2021,1211,1251,1,Gonzaga,13,Liberty
+2021,1211,1287,1,Gonzaga,14,Morehead St
+2021,1211,1326,1,Gonzaga,2,Ohio St
+2021,1211,1345,1,Gonzaga,4,Purdue
+2021,1211,1437,1,Gonzaga,5,Villanova
+2021,1211,1403,1,Gonzaga,6,Texas Tech
+2021,1211,1314,1,Gonzaga,8,North Carolina
+2021,1211,1458,1,Gonzaga,9,Wisconsin
+2021,1211,1439,1,Gonzaga,10,Virginia Tech
+2021,1211,1429,1,Gonzaga,11,Utah St
+2021,1211,1457,1,Gonzaga,12,Winthrop
+2021,1211,1317,1,Gonzaga,13,North Texas
+2021,1211,1331,1,Gonzaga,15,Oral Roberts
+2021,1211,1216,1,Gonzaga,16,Hartford
+2021,1234,1276,2,Iowa,1,Michigan
+2021,1234,1400,2,Iowa,3,Texas
+2021,1234,1261,2,Iowa,8,LSU
+2021,1234,1382,2,Iowa,9,St Bonaventure
+2021,1234,1268,2,Iowa,10,Maryland
+2021,1234,1277,2,Iowa,11,Michigan St
+2021,1234,1417,2,Iowa,11,UCLA
+2021,1234,1422,2,Iowa,13,UNC Greensboro
+2021,1234,1291,2,Iowa,16,Mt St Mary's
+2021,1234,1411,2,Iowa,16,TX Southern
+2021,1234,1242,2,Iowa,3,Kansas
+2021,1234,1438,2,Iowa,4,Virginia
+2021,1234,1425,2,Iowa,6,USC
+2021,1234,1332,2,Iowa,7,Oregon
+2021,1234,1328,2,Iowa,8,Oklahoma
+2021,1234,1281,2,Iowa,9,Missouri
+2021,1234,1433,2,Iowa,10,VCU
+2021,1234,1455,2,Iowa,11,Wichita St
+2021,1234,1364,2,Iowa,12,UC Santa Barbara
+2021,1234,1325,2,Iowa,13,Ohio
+2021,1234,1313,2,Iowa,16,Norfolk St
+2021,1234,1452,2,Iowa,3,West Virginia
+2021,1234,1329,2,Iowa,4,Oklahoma St
+2021,1234,1397,2,Iowa,5,Tennessee
+2021,1234,1361,2,Iowa,6,San Diego St
+2021,1234,1260,2,Iowa,8,Loyola-Chicago
+2021,1234,1353,2,Iowa,10,Rutgers
+2021,1234,1393,2,Iowa,11,Syracuse
+2021,1234,1333,2,Iowa,12,Oregon St
+2021,1234,1251,2,Iowa,13,Liberty
+2021,1234,1287,2,Iowa,14,Morehead St
+2021,1234,1326,2,Iowa,2,Ohio St
+2021,1234,1345,2,Iowa,4,Purdue
+2021,1234,1437,2,Iowa,5,Villanova
+2021,1234,1403,2,Iowa,6,Texas Tech
+2021,1234,1314,2,Iowa,8,North Carolina
+2021,1234,1458,2,Iowa,9,Wisconsin
+2021,1234,1439,2,Iowa,10,Virginia Tech
+2021,1234,1429,2,Iowa,11,Utah St
+2021,1234,1457,2,Iowa,12,Winthrop
+2021,1234,1317,2,Iowa,13,North Texas
+2021,1234,1331,2,Iowa,15,Oral Roberts
+2021,1242,1276,3,Kansas,1,Michigan
+2021,1242,1400,3,Kansas,3,Texas
+2021,1242,1261,3,Kansas,8,LSU
+2021,1242,1382,3,Kansas,9,St Bonaventure
+2021,1242,1268,3,Kansas,10,Maryland
+2021,1242,1277,3,Kansas,11,Michigan St
+2021,1242,1417,3,Kansas,11,UCLA
+2021,1242,1422,3,Kansas,13,UNC Greensboro
+2021,1242,1291,3,Kansas,16,Mt St Mary's
+2021,1242,1411,3,Kansas,16,TX Southern
+2021,1242,1438,3,Kansas,4,Virginia
+2021,1242,1425,3,Kansas,6,USC
+2021,1242,1332,3,Kansas,7,Oregon
+2021,1242,1328,3,Kansas,8,Oklahoma
+2021,1242,1281,3,Kansas,9,Missouri
+2021,1242,1433,3,Kansas,10,VCU
+2021,1242,1455,3,Kansas,11,Wichita St
+2021,1242,1364,3,Kansas,12,UC Santa Barbara
+2021,1242,1325,3,Kansas,13,Ohio
+2021,1242,1313,3,Kansas,16,Norfolk St
+2021,1242,1452,3,Kansas,3,West Virginia
+2021,1242,1329,3,Kansas,4,Oklahoma St
+2021,1242,1397,3,Kansas,5,Tennessee
+2021,1242,1361,3,Kansas,6,San Diego St
+2021,1242,1260,3,Kansas,8,Loyola-Chicago
+2021,1242,1353,3,Kansas,10,Rutgers
+2021,1242,1393,3,Kansas,11,Syracuse
+2021,1242,1333,3,Kansas,12,Oregon St
+2021,1242,1251,3,Kansas,13,Liberty
+2021,1242,1287,3,Kansas,14,Morehead St
+2021,1242,1326,3,Kansas,2,Ohio St
+2021,1242,1345,3,Kansas,4,Purdue
+2021,1242,1437,3,Kansas,5,Villanova
+2021,1242,1403,3,Kansas,6,Texas Tech
+2021,1242,1314,3,Kansas,8,North Carolina
+2021,1242,1458,3,Kansas,9,Wisconsin
+2021,1242,1439,3,Kansas,10,Virginia Tech
+2021,1242,1429,3,Kansas,11,Utah St
+2021,1242,1457,3,Kansas,12,Winthrop
+2021,1242,1317,3,Kansas,13,North Texas
+2021,1242,1331,3,Kansas,15,Oral Roberts
+2021,1438,1455,4,Virginia,11,Wichita St
+2021,1438,1452,4,Virginia,3,West Virginia
+2021,1438,1458,4,Virginia,9,Wisconsin
+2021,1438,1439,4,Virginia,10,Virginia Tech
+2021,1438,1457,4,Virginia,12,Winthrop
+2021,1166,1276,5,Creighton,1,Michigan
+2021,1166,1400,5,Creighton,3,Texas
+2021,1166,1199,5,Creighton,4,Florida St
+2021,1166,1261,5,Creighton,8,LSU
+2021,1166,1382,5,Creighton,9,St Bonaventure
+2021,1166,1268,5,Creighton,10,Maryland
+2021,1166,1277,5,Creighton,11,Michigan St
+2021,1166,1417,5,Creighton,11,UCLA
+2021,1166,1207,5,Creighton,12,Georgetown
+2021,1166,1422,5,Creighton,13,UNC Greensboro
+2021,1166,1233,5,Creighton,15,Iona
+2021,1166,1291,5,Creighton,16,Mt St Mary's
+2021,1166,1411,5,Creighton,16,TX Southern
+2021,1166,1211,5,Creighton,1,Gonzaga
+2021,1166,1234,5,Creighton,2,Iowa
+2021,1166,1242,5,Creighton,3,Kansas
+2021,1166,1438,5,Creighton,4,Virginia
+2021,1166,1425,5,Creighton,6,USC
+2021,1166,1332,5,Creighton,7,Oregon
+2021,1166,1328,5,Creighton,8,Oklahoma
+2021,1166,1281,5,Creighton,9,Missouri
+2021,1166,1433,5,Creighton,10,VCU
+2021,1166,1179,5,Creighton,11,Drake
+2021,1166,1455,5,Creighton,11,Wichita St
+2021,1166,1364,5,Creighton,12,UC Santa Barbara
+2021,1166,1325,5,Creighton,13,Ohio
+2021,1166,1186,5,Creighton,14,E Washington
+2021,1166,1213,5,Creighton,15,Grand Canyon
+2021,1166,1313,5,Creighton,16,Norfolk St
+2021,1166,1228,5,Creighton,1,Illinois
+2021,1166,1222,5,Creighton,2,Houston
+2021,1166,1452,5,Creighton,3,West Virginia
+2021,1166,1329,5,Creighton,4,Oklahoma St
+2021,1166,1397,5,Creighton,5,Tennessee
+2021,1166,1361,5,Creighton,6,San Diego St
+2021,1166,1260,5,Creighton,8,Loyola-Chicago
+2021,1166,1210,5,Creighton,9,Georgia Tech
+2021,1166,1353,5,Creighton,10,Rutgers
+2021,1166,1393,5,Creighton,11,Syracuse
+2021,1166,1333,5,Creighton,12,Oregon St
+2021,1166,1251,5,Creighton,13,Liberty
+2021,1166,1287,5,Creighton,14,Morehead St
+2021,1166,1180,5,Creighton,16,Drexel
+2021,1166,1326,5,Creighton,2,Ohio St
+2021,1166,1345,5,Creighton,4,Purdue
+2021,1166,1437,5,Creighton,5,Villanova
+2021,1166,1403,5,Creighton,6,Texas Tech
+2021,1166,1196,5,Creighton,7,Florida
+2021,1166,1314,5,Creighton,8,North Carolina
+2021,1166,1458,5,Creighton,9,Wisconsin
+2021,1166,1439,5,Creighton,10,Virginia Tech
+2021,1166,1429,5,Creighton,11,Utah St
+2021,1166,1457,5,Creighton,12,Winthrop
+2021,1166,1317,5,Creighton,13,North Texas
+2021,1166,1331,5,Creighton,15,Oral Roberts
+2021,1166,1216,5,Creighton,16,Hartford
+2021,1425,1438,6,USC,4,Virginia
+2021,1425,1433,6,USC,10,VCU
+2021,1425,1455,6,USC,11,Wichita St
+2021,1425,1452,6,USC,3,West Virginia
+2021,1425,1437,6,USC,5,Villanova
+2021,1425,1458,6,USC,9,Wisconsin
+2021,1425,1439,6,USC,10,Virginia Tech
+2021,1425,1429,6,USC,11,Utah St
+2021,1425,1457,6,USC,12,Winthrop
+2021,1332,1400,7,Oregon,3,Texas
+2021,1332,1382,7,Oregon,9,St Bonaventure
+2021,1332,1417,7,Oregon,11,UCLA
+2021,1332,1422,7,Oregon,13,UNC Greensboro
+2021,1332,1411,7,Oregon,16,TX Southern
+2021,1332,1438,7,Oregon,4,Virginia
+2021,1332,1425,7,Oregon,6,USC
+2021,1332,1433,7,Oregon,10,VCU
+2021,1332,1455,7,Oregon,11,Wichita St
+2021,1332,1364,7,Oregon,12,UC Santa Barbara
+2021,1332,1452,7,Oregon,3,West Virginia
+2021,1332,1397,7,Oregon,5,Tennessee
+2021,1332,1361,7,Oregon,6,San Diego St
+2021,1332,1353,7,Oregon,10,Rutgers
+2021,1332,1393,7,Oregon,11,Syracuse
+2021,1332,1333,7,Oregon,12,Oregon St
+2021,1332,1345,7,Oregon,4,Purdue
+2021,1332,1437,7,Oregon,5,Villanova
+2021,1332,1403,7,Oregon,6,Texas Tech
+2021,1332,1458,7,Oregon,9,Wisconsin
+2021,1332,1439,7,Oregon,10,Virginia Tech
+2021,1332,1429,7,Oregon,11,Utah St
+2021,1332,1457,7,Oregon,12,Winthrop
+2021,1328,1400,8,Oklahoma,3,Texas
+2021,1328,1382,8,Oklahoma,9,St Bonaventure
+2021,1328,1417,8,Oklahoma,11,UCLA
+2021,1328,1422,8,Oklahoma,13,UNC Greensboro
+2021,1328,1411,8,Oklahoma,16,TX Southern
+2021,1328,1438,8,Oklahoma,4,Virginia
+2021,1328,1425,8,Oklahoma,6,USC
+2021,1328,1332,8,Oklahoma,7,Oregon
+2021,1328,1433,8,Oklahoma,10,VCU
+2021,1328,1455,8,Oklahoma,11,Wichita St
+2021,1328,1364,8,Oklahoma,12,UC Santa Barbara
+2021,1328,1452,8,Oklahoma,3,West Virginia
+2021,1328,1329,8,Oklahoma,4,Oklahoma St
+2021,1328,1397,8,Oklahoma,5,Tennessee
+2021,1328,1361,8,Oklahoma,6,San Diego St
+2021,1328,1353,8,Oklahoma,10,Rutgers
+2021,1328,1393,8,Oklahoma,11,Syracuse
+2021,1328,1333,8,Oklahoma,12,Oregon St
+2021,1328,1345,8,Oklahoma,4,Purdue
+2021,1328,1437,8,Oklahoma,5,Villanova
+2021,1328,1403,8,Oklahoma,6,Texas Tech
+2021,1328,1458,8,Oklahoma,9,Wisconsin
+2021,1328,1439,8,Oklahoma,10,Virginia Tech
+2021,1328,1429,8,Oklahoma,11,Utah St
+2021,1328,1457,8,Oklahoma,12,Winthrop
+2021,1328,1331,8,Oklahoma,15,Oral Roberts
+2021,1281,1400,9,Missouri,3,Texas
+2021,1281,1382,9,Missouri,9,St Bonaventure
+2021,1281,1417,9,Missouri,11,UCLA
+2021,1281,1422,9,Missouri,13,UNC Greensboro
+2021,1281,1291,9,Missouri,16,Mt St Mary's
+2021,1281,1411,9,Missouri,16,TX Southern
+2021,1281,1438,9,Missouri,4,Virginia
+2021,1281,1425,9,Missouri,6,USC
+2021,1281,1332,9,Missouri,7,Oregon
+2021,1281,1328,9,Missouri,8,Oklahoma
+2021,1281,1433,9,Missouri,10,VCU
+2021,1281,1455,9,Missouri,11,Wichita St
+2021,1281,1364,9,Missouri,12,UC Santa Barbara
+2021,1281,1325,9,Missouri,13,Ohio
+2021,1281,1313,9,Missouri,16,Norfolk St
+2021,1281,1452,9,Missouri,3,West Virginia
+2021,1281,1329,9,Missouri,4,Oklahoma St
+2021,1281,1397,9,Missouri,5,Tennessee
+2021,1281,1361,9,Missouri,6,San Diego St
+2021,1281,1353,9,Missouri,10,Rutgers
+2021,1281,1393,9,Missouri,11,Syracuse
+2021,1281,1333,9,Missouri,12,Oregon St
+2021,1281,1287,9,Missouri,14,Morehead St
+2021,1281,1326,9,Missouri,2,Ohio St
+2021,1281,1345,9,Missouri,4,Purdue
+2021,1281,1437,9,Missouri,5,Villanova
+2021,1281,1403,9,Missouri,6,Texas Tech
+2021,1281,1314,9,Missouri,8,North Carolina
+2021,1281,1458,9,Missouri,9,Wisconsin
+2021,1281,1439,9,Missouri,10,Virginia Tech
+2021,1281,1429,9,Missouri,11,Utah St
+2021,1281,1457,9,Missouri,12,Winthrop
+2021,1281,1317,9,Missouri,13,North Texas
+2021,1281,1331,9,Missouri,15,Oral Roberts
+2021,1433,1438,10,VCU,4,Virginia
+2021,1433,1455,10,VCU,11,Wichita St
+2021,1433,1452,10,VCU,3,West Virginia
+2021,1433,1437,10,VCU,5,Villanova
+2021,1433,1458,10,VCU,9,Wisconsin
+2021,1433,1439,10,VCU,10,Virginia Tech
+2021,1433,1457,10,VCU,12,Winthrop
+2021,1179,1276,11,Drake,1,Michigan
+2021,1179,1400,11,Drake,3,Texas
+2021,1179,1199,11,Drake,4,Florida St
+2021,1179,1261,11,Drake,8,LSU
+2021,1179,1382,11,Drake,9,St Bonaventure
+2021,1179,1268,11,Drake,10,Maryland
+2021,1179,1277,11,Drake,11,Michigan St
+2021,1179,1417,11,Drake,11,UCLA
+2021,1179,1207,11,Drake,12,Georgetown
+2021,1179,1422,11,Drake,13,UNC Greensboro
+2021,1179,1233,11,Drake,15,Iona
+2021,1179,1291,11,Drake,16,Mt St Mary's
+2021,1179,1411,11,Drake,16,TX Southern
+2021,1179,1211,11,Drake,1,Gonzaga
+2021,1179,1234,11,Drake,2,Iowa
+2021,1179,1242,11,Drake,3,Kansas
+2021,1179,1438,11,Drake,4,Virginia
+2021,1179,1425,11,Drake,6,USC
+2021,1179,1332,11,Drake,7,Oregon
+2021,1179,1328,11,Drake,8,Oklahoma
+2021,1179,1281,11,Drake,9,Missouri
+2021,1179,1433,11,Drake,10,VCU
+2021,1179,1455,11,Drake,11,Wichita St
+2021,1179,1364,11,Drake,12,UC Santa Barbara
+2021,1179,1325,11,Drake,13,Ohio
+2021,1179,1186,11,Drake,14,E Washington
+2021,1179,1213,11,Drake,15,Grand Canyon
+2021,1179,1313,11,Drake,16,Norfolk St
+2021,1179,1228,11,Drake,1,Illinois
+2021,1179,1222,11,Drake,2,Houston
+2021,1179,1452,11,Drake,3,West Virginia
+2021,1179,1329,11,Drake,4,Oklahoma St
+2021,1179,1397,11,Drake,5,Tennessee
+2021,1179,1361,11,Drake,6,San Diego St
+2021,1179,1260,11,Drake,8,Loyola-Chicago
+2021,1179,1210,11,Drake,9,Georgia Tech
+2021,1179,1353,11,Drake,10,Rutgers
+2021,1179,1393,11,Drake,11,Syracuse
+2021,1179,1333,11,Drake,12,Oregon St
+2021,1179,1251,11,Drake,13,Liberty
+2021,1179,1287,11,Drake,14,Morehead St
+2021,1179,1180,11,Drake,16,Drexel
+2021,1179,1326,11,Drake,2,Ohio St
+2021,1179,1345,11,Drake,4,Purdue
+2021,1179,1437,11,Drake,5,Villanova
+2021,1179,1403,11,Drake,6,Texas Tech
+2021,1179,1196,11,Drake,7,Florida
+2021,1179,1314,11,Drake,8,North Carolina
+2021,1179,1458,11,Drake,9,Wisconsin
+2021,1179,1439,11,Drake,10,Virginia Tech
+2021,1179,1429,11,Drake,11,Utah St
+2021,1179,1457,11,Drake,12,Winthrop
+2021,1179,1317,11,Drake,13,North Texas
+2021,1179,1331,11,Drake,15,Oral Roberts
+2021,1179,1216,11,Drake,16,Hartford
+2021,1455,1458,11,Wichita St,9,Wisconsin
+2021,1455,1457,11,Wichita St,12,Winthrop
+2021,1364,1400,12,UC Santa Barbara,3,Texas
+2021,1364,1382,12,UC Santa Barbara,9,St Bonaventure
+2021,1364,1417,12,UC Santa Barbara,11,UCLA
+2021,1364,1422,12,UC Santa Barbara,13,UNC Greensboro
+2021,1364,1411,12,UC Santa Barbara,16,TX Southern
+2021,1364,1438,12,UC Santa Barbara,4,Virginia
+2021,1364,1425,12,UC Santa Barbara,6,USC
+2021,1364,1433,12,UC Santa Barbara,10,VCU
+2021,1364,1455,12,UC Santa Barbara,11,Wichita St
+2021,1364,1452,12,UC Santa Barbara,3,West Virginia
+2021,1364,1397,12,UC Santa Barbara,5,Tennessee
+2021,1364,1393,12,UC Santa Barbara,11,Syracuse
+2021,1364,1437,12,UC Santa Barbara,5,Villanova
+2021,1364,1403,12,UC Santa Barbara,6,Texas Tech
+2021,1364,1458,12,UC Santa Barbara,9,Wisconsin
+2021,1364,1439,12,UC Santa Barbara,10,Virginia Tech
+2021,1364,1429,12,UC Santa Barbara,11,Utah St
+2021,1364,1457,12,UC Santa Barbara,12,Winthrop
+2021,1325,1400,13,Ohio,3,Texas
+2021,1325,1382,13,Ohio,9,St Bonaventure
+2021,1325,1417,13,Ohio,11,UCLA
+2021,1325,1422,13,Ohio,13,UNC Greensboro
+2021,1325,1411,13,Ohio,16,TX Southern
+2021,1325,1438,13,Ohio,4,Virginia
+2021,1325,1425,13,Ohio,6,USC
+2021,1325,1332,13,Ohio,7,Oregon
+2021,1325,1328,13,Ohio,8,Oklahoma
+2021,1325,1433,13,Ohio,10,VCU
+2021,1325,1455,13,Ohio,11,Wichita St
+2021,1325,1364,13,Ohio,12,UC Santa Barbara
+2021,1325,1452,13,Ohio,3,West Virginia
+2021,1325,1329,13,Ohio,4,Oklahoma St
+2021,1325,1397,13,Ohio,5,Tennessee
+2021,1325,1361,13,Ohio,6,San Diego St
+2021,1325,1353,13,Ohio,10,Rutgers
+2021,1325,1393,13,Ohio,11,Syracuse
+2021,1325,1333,13,Ohio,12,Oregon St
+2021,1325,1326,13,Ohio,2,Ohio St
+2021,1325,1345,13,Ohio,4,Purdue
+2021,1325,1437,13,Ohio,5,Villanova
+2021,1325,1403,13,Ohio,6,Texas Tech
+2021,1325,1458,13,Ohio,9,Wisconsin
+2021,1325,1439,13,Ohio,10,Virginia Tech
+2021,1325,1429,13,Ohio,11,Utah St
+2021,1325,1457,13,Ohio,12,Winthrop
+2021,1325,1331,13,Ohio,15,Oral Roberts
+2021,1186,1276,14,E Washington,1,Michigan
+2021,1186,1400,14,E Washington,3,Texas
+2021,1186,1199,14,E Washington,4,Florida St
+2021,1186,1261,14,E Washington,8,LSU
+2021,1186,1382,14,E Washington,9,St Bonaventure
+2021,1186,1268,14,E Washington,10,Maryland
+2021,1186,1277,14,E Washington,11,Michigan St
+2021,1186,1417,14,E Washington,11,UCLA
+2021,1186,1207,14,E Washington,12,Georgetown
+2021,1186,1422,14,E Washington,13,UNC Greensboro
+2021,1186,1233,14,E Washington,15,Iona
+2021,1186,1291,14,E Washington,16,Mt St Mary's
+2021,1186,1411,14,E Washington,16,TX Southern
+2021,1186,1211,14,E Washington,1,Gonzaga
+2021,1186,1234,14,E Washington,2,Iowa
+2021,1186,1242,14,E Washington,3,Kansas
+2021,1186,1438,14,E Washington,4,Virginia
+2021,1186,1425,14,E Washington,6,USC
+2021,1186,1332,14,E Washington,7,Oregon
+2021,1186,1328,14,E Washington,8,Oklahoma
+2021,1186,1281,14,E Washington,9,Missouri
+2021,1186,1433,14,E Washington,10,VCU
+2021,1186,1455,14,E Washington,11,Wichita St
+2021,1186,1364,14,E Washington,12,UC Santa Barbara
+2021,1186,1325,14,E Washington,13,Ohio
+2021,1186,1213,14,E Washington,15,Grand Canyon
+2021,1186,1313,14,E Washington,16,Norfolk St
+2021,1186,1228,14,E Washington,1,Illinois
+2021,1186,1222,14,E Washington,2,Houston
+2021,1186,1452,14,E Washington,3,West Virginia
+2021,1186,1329,14,E Washington,4,Oklahoma St
+2021,1186,1397,14,E Washington,5,Tennessee
+2021,1186,1361,14,E Washington,6,San Diego St
+2021,1186,1260,14,E Washington,8,Loyola-Chicago
+2021,1186,1210,14,E Washington,9,Georgia Tech
+2021,1186,1353,14,E Washington,10,Rutgers
+2021,1186,1393,14,E Washington,11,Syracuse
+2021,1186,1333,14,E Washington,12,Oregon St
+2021,1186,1251,14,E Washington,13,Liberty
+2021,1186,1287,14,E Washington,14,Morehead St
+2021,1186,1326,14,E Washington,2,Ohio St
+2021,1186,1345,14,E Washington,4,Purdue
+2021,1186,1437,14,E Washington,5,Villanova
+2021,1186,1403,14,E Washington,6,Texas Tech
+2021,1186,1196,14,E Washington,7,Florida
+2021,1186,1314,14,E Washington,8,North Carolina
+2021,1186,1458,14,E Washington,9,Wisconsin
+2021,1186,1439,14,E Washington,10,Virginia Tech
+2021,1186,1429,14,E Washington,11,Utah St
+2021,1186,1457,14,E Washington,12,Winthrop
+2021,1186,1317,14,E Washington,13,North Texas
+2021,1186,1331,14,E Washington,15,Oral Roberts
+2021,1186,1216,14,E Washington,16,Hartford
+2021,1213,1276,15,Grand Canyon,1,Michigan
+2021,1213,1400,15,Grand Canyon,3,Texas
+2021,1213,1261,15,Grand Canyon,8,LSU
+2021,1213,1382,15,Grand Canyon,9,St Bonaventure
+2021,1213,1268,15,Grand Canyon,10,Maryland
+2021,1213,1277,15,Grand Canyon,11,Michigan St
+2021,1213,1417,15,Grand Canyon,11,UCLA
+2021,1213,1422,15,Grand Canyon,13,UNC Greensboro
+2021,1213,1233,15,Grand Canyon,15,Iona
+2021,1213,1291,15,Grand Canyon,16,Mt St Mary's
+2021,1213,1411,15,Grand Canyon,16,TX Southern
+2021,1213,1234,15,Grand Canyon,2,Iowa
+2021,1213,1242,15,Grand Canyon,3,Kansas
+2021,1213,1438,15,Grand Canyon,4,Virginia
+2021,1213,1425,15,Grand Canyon,6,USC
+2021,1213,1332,15,Grand Canyon,7,Oregon
+2021,1213,1328,15,Grand Canyon,8,Oklahoma
+2021,1213,1281,15,Grand Canyon,9,Missouri
+2021,1213,1433,15,Grand Canyon,10,VCU
+2021,1213,1455,15,Grand Canyon,11,Wichita St
+2021,1213,1364,15,Grand Canyon,12,UC Santa Barbara
+2021,1213,1325,15,Grand Canyon,13,Ohio
+2021,1213,1313,15,Grand Canyon,16,Norfolk St
+2021,1213,1228,15,Grand Canyon,1,Illinois
+2021,1213,1222,15,Grand Canyon,2,Houston
+2021,1213,1452,15,Grand Canyon,3,West Virginia
+2021,1213,1329,15,Grand Canyon,4,Oklahoma St
+2021,1213,1397,15,Grand Canyon,5,Tennessee
+2021,1213,1361,15,Grand Canyon,6,San Diego St
+2021,1213,1260,15,Grand Canyon,8,Loyola-Chicago
+2021,1213,1353,15,Grand Canyon,10,Rutgers
+2021,1213,1393,15,Grand Canyon,11,Syracuse
+2021,1213,1333,15,Grand Canyon,12,Oregon St
+2021,1213,1251,15,Grand Canyon,13,Liberty
+2021,1213,1287,15,Grand Canyon,14,Morehead St
+2021,1213,1326,15,Grand Canyon,2,Ohio St
+2021,1213,1345,15,Grand Canyon,4,Purdue
+2021,1213,1437,15,Grand Canyon,5,Villanova
+2021,1213,1403,15,Grand Canyon,6,Texas Tech
+2021,1213,1314,15,Grand Canyon,8,North Carolina
+2021,1213,1458,15,Grand Canyon,9,Wisconsin
+2021,1213,1439,15,Grand Canyon,10,Virginia Tech
+2021,1213,1429,15,Grand Canyon,11,Utah St
+2021,1213,1457,15,Grand Canyon,12,Winthrop
+2021,1213,1317,15,Grand Canyon,13,North Texas
+2021,1213,1331,15,Grand Canyon,15,Oral Roberts
+2021,1213,1216,15,Grand Canyon,16,Hartford
+2021,1111,1276,16,Appalachian St,1,Michigan
+2021,1111,1400,16,Appalachian St,3,Texas
+2021,1111,1199,16,Appalachian St,4,Florida St
+2021,1111,1160,16,Appalachian St,5,Colorado
+2021,1111,1140,16,Appalachian St,6,BYU
+2021,1111,1163,16,Appalachian St,7,Connecticut
+2021,1111,1261,16,Appalachian St,8,LSU
+2021,1111,1382,16,Appalachian St,9,St Bonaventure
+2021,1111,1268,16,Appalachian St,10,Maryland
+2021,1111,1277,16,Appalachian St,11,Michigan St
+2021,1111,1417,16,Appalachian St,11,UCLA
+2021,1111,1207,16,Appalachian St,12,Georgetown
+2021,1111,1422,16,Appalachian St,13,UNC Greensboro
+2021,1111,1233,16,Appalachian St,15,Iona
+2021,1111,1291,16,Appalachian St,16,Mt St Mary's
+2021,1111,1411,16,Appalachian St,16,TX Southern
+2021,1111,1211,16,Appalachian St,1,Gonzaga
+2021,1111,1234,16,Appalachian St,2,Iowa
+2021,1111,1242,16,Appalachian St,3,Kansas
+2021,1111,1438,16,Appalachian St,4,Virginia
+2021,1111,1166,16,Appalachian St,5,Creighton
+2021,1111,1425,16,Appalachian St,6,USC
+2021,1111,1332,16,Appalachian St,7,Oregon
+2021,1111,1328,16,Appalachian St,8,Oklahoma
+2021,1111,1281,16,Appalachian St,9,Missouri
+2021,1111,1433,16,Appalachian St,10,VCU
+2021,1111,1179,16,Appalachian St,11,Drake
+2021,1111,1455,16,Appalachian St,11,Wichita St
+2021,1111,1364,16,Appalachian St,12,UC Santa Barbara
+2021,1111,1325,16,Appalachian St,13,Ohio
+2021,1111,1186,16,Appalachian St,14,E Washington
+2021,1111,1213,16,Appalachian St,15,Grand Canyon
+2021,1111,1313,16,Appalachian St,16,Norfolk St
+2021,1111,1228,16,Appalachian St,1,Illinois
+2021,1111,1222,16,Appalachian St,2,Houston
+2021,1111,1452,16,Appalachian St,3,West Virginia
+2021,1111,1329,16,Appalachian St,4,Oklahoma St
+2021,1111,1397,16,Appalachian St,5,Tennessee
+2021,1111,1361,16,Appalachian St,6,San Diego St
+2021,1111,1155,16,Appalachian St,7,Clemson
+2021,1111,1260,16,Appalachian St,8,Loyola-Chicago
+2021,1111,1210,16,Appalachian St,9,Georgia Tech
+2021,1111,1353,16,Appalachian St,10,Rutgers
+2021,1111,1393,16,Appalachian St,11,Syracuse
+2021,1111,1333,16,Appalachian St,12,Oregon St
+2021,1111,1251,16,Appalachian St,13,Liberty
+2021,1111,1287,16,Appalachian St,14,Morehead St
+2021,1111,1156,16,Appalachian St,15,Cleveland St
+2021,1111,1180,16,Appalachian St,16,Drexel
+2021,1111,1124,16,Appalachian St,1,Baylor
+2021,1111,1326,16,Appalachian St,2,Ohio St
+2021,1111,1116,16,Appalachian St,3,Arkansas
+2021,1111,1345,16,Appalachian St,4,Purdue
+2021,1111,1437,16,Appalachian St,5,Villanova
+2021,1111,1403,16,Appalachian St,6,Texas Tech
+2021,1111,1196,16,Appalachian St,7,Florida
+2021,1111,1314,16,Appalachian St,8,North Carolina
+2021,1111,1458,16,Appalachian St,9,Wisconsin
+2021,1111,1439,16,Appalachian St,10,Virginia Tech
+2021,1111,1429,16,Appalachian St,11,Utah St
+2021,1111,1457,16,Appalachian St,12,Winthrop
+2021,1111,1317,16,Appalachian St,13,North Texas
+2021,1111,1159,16,Appalachian St,14,Colgate
+2021,1111,1331,16,Appalachian St,15,Oral Roberts
+2021,1111,1216,16,Appalachian St,16,Hartford
+2021,1313,1400,16,Norfolk St,3,Texas
+2021,1313,1382,16,Norfolk St,9,St Bonaventure
+2021,1313,1417,16,Norfolk St,11,UCLA
+2021,1313,1422,16,Norfolk St,13,UNC Greensboro
+2021,1313,1411,16,Norfolk St,16,TX Southern
+2021,1313,1438,16,Norfolk St,4,Virginia
+2021,1313,1425,16,Norfolk St,6,USC
+2021,1313,1332,16,Norfolk St,7,Oregon
+2021,1313,1328,16,Norfolk St,8,Oklahoma
+2021,1313,1433,16,Norfolk St,10,VCU
+2021,1313,1455,16,Norfolk St,11,Wichita St
+2021,1313,1364,16,Norfolk St,12,UC Santa Barbara
+2021,1313,1325,16,Norfolk St,13,Ohio
+2021,1313,1452,16,Norfolk St,3,West Virginia
+2021,1313,1329,16,Norfolk St,4,Oklahoma St
+2021,1313,1397,16,Norfolk St,5,Tennessee
+2021,1313,1361,16,Norfolk St,6,San Diego St
+2021,1313,1353,16,Norfolk St,10,Rutgers
+2021,1313,1393,16,Norfolk St,11,Syracuse
+2021,1313,1333,16,Norfolk St,12,Oregon St
+2021,1313,1326,16,Norfolk St,2,Ohio St
+2021,1313,1345,16,Norfolk St,4,Purdue
+2021,1313,1437,16,Norfolk St,5,Villanova
+2021,1313,1403,16,Norfolk St,6,Texas Tech
+2021,1313,1314,16,Norfolk St,8,North Carolina
+2021,1313,1458,16,Norfolk St,9,Wisconsin
+2021,1313,1439,16,Norfolk St,10,Virginia Tech
+2021,1313,1429,16,Norfolk St,11,Utah St
+2021,1313,1457,16,Norfolk St,12,Winthrop
+2021,1313,1317,16,Norfolk St,13,North Texas
+2021,1313,1331,16,Norfolk St,15,Oral Roberts
+2021,1228,1276,1,Illinois,1,Michigan
+2021,1228,1400,1,Illinois,3,Texas
+2021,1228,1261,1,Illinois,8,LSU
+2021,1228,1382,1,Illinois,9,St Bonaventure
+2021,1228,1268,1,Illinois,10,Maryland
+2021,1228,1277,1,Illinois,11,Michigan St
+2021,1228,1417,1,Illinois,11,UCLA
+2021,1228,1422,1,Illinois,13,UNC Greensboro
+2021,1228,1233,1,Illinois,15,Iona
+2021,1228,1291,1,Illinois,16,Mt St Mary's
+2021,1228,1411,1,Illinois,16,TX Southern
+2021,1228,1234,1,Illinois,2,Iowa
+2021,1228,1242,1,Illinois,3,Kansas
+2021,1228,1438,1,Illinois,4,Virginia
+2021,1228,1425,1,Illinois,6,USC
+2021,1228,1332,1,Illinois,7,Oregon
+2021,1228,1328,1,Illinois,8,Oklahoma
+2021,1228,1281,1,Illinois,9,Missouri
+2021,1228,1433,1,Illinois,10,VCU
+2021,1228,1455,1,Illinois,11,Wichita St
+2021,1228,1364,1,Illinois,12,UC Santa Barbara
+2021,1228,1325,1,Illinois,13,Ohio
+2021,1228,1313,1,Illinois,16,Norfolk St
+2021,1228,1452,1,Illinois,3,West Virginia
+2021,1228,1329,1,Illinois,4,Oklahoma St
+2021,1228,1397,1,Illinois,5,Tennessee
+2021,1228,1361,1,Illinois,6,San Diego St
+2021,1228,1260,1,Illinois,8,Loyola-Chicago
+2021,1228,1353,1,Illinois,10,Rutgers
+2021,1228,1393,1,Illinois,11,Syracuse
+2021,1228,1333,1,Illinois,12,Oregon St
+2021,1228,1251,1,Illinois,13,Liberty
+2021,1228,1287,1,Illinois,14,Morehead St
+2021,1228,1326,1,Illinois,2,Ohio St
+2021,1228,1345,1,Illinois,4,Purdue
+2021,1228,1437,1,Illinois,5,Villanova
+2021,1228,1403,1,Illinois,6,Texas Tech
+2021,1228,1314,1,Illinois,8,North Carolina
+2021,1228,1458,1,Illinois,9,Wisconsin
+2021,1228,1439,1,Illinois,10,Virginia Tech
+2021,1228,1429,1,Illinois,11,Utah St
+2021,1228,1457,1,Illinois,12,Winthrop
+2021,1228,1317,1,Illinois,13,North Texas
+2021,1228,1331,1,Illinois,15,Oral Roberts
+2021,1222,1276,2,Houston,1,Michigan
+2021,1222,1400,2,Houston,3,Texas
+2021,1222,1261,2,Houston,8,LSU
+2021,1222,1382,2,Houston,9,St Bonaventure
+2021,1222,1268,2,Houston,10,Maryland
+2021,1222,1277,2,Houston,11,Michigan St
+2021,1222,1417,2,Houston,11,UCLA
+2021,1222,1422,2,Houston,13,UNC Greensboro
+2021,1222,1233,2,Houston,15,Iona
+2021,1222,1291,2,Houston,16,Mt St Mary's
+2021,1222,1411,2,Houston,16,TX Southern
+2021,1222,1234,2,Houston,2,Iowa
+2021,1222,1242,2,Houston,3,Kansas
+2021,1222,1438,2,Houston,4,Virginia
+2021,1222,1425,2,Houston,6,USC
+2021,1222,1332,2,Houston,7,Oregon
+2021,1222,1328,2,Houston,8,Oklahoma
+2021,1222,1281,2,Houston,9,Missouri
+2021,1222,1433,2,Houston,10,VCU
+2021,1222,1455,2,Houston,11,Wichita St
+2021,1222,1364,2,Houston,12,UC Santa Barbara
+2021,1222,1325,2,Houston,13,Ohio
+2021,1222,1313,2,Houston,16,Norfolk St
+2021,1222,1228,2,Houston,1,Illinois
+2021,1222,1452,2,Houston,3,West Virginia
+2021,1222,1329,2,Houston,4,Oklahoma St
+2021,1222,1397,2,Houston,5,Tennessee
+2021,1222,1361,2,Houston,6,San Diego St
+2021,1222,1260,2,Houston,8,Loyola-Chicago
+2021,1222,1353,2,Houston,10,Rutgers
+2021,1222,1393,2,Houston,11,Syracuse
+2021,1222,1333,2,Houston,12,Oregon St
+2021,1222,1251,2,Houston,13,Liberty
+2021,1222,1287,2,Houston,14,Morehead St
+2021,1222,1326,2,Houston,2,Ohio St
+2021,1222,1345,2,Houston,4,Purdue
+2021,1222,1437,2,Houston,5,Villanova
+2021,1222,1403,2,Houston,6,Texas Tech
+2021,1222,1314,2,Houston,8,North Carolina
+2021,1222,1458,2,Houston,9,Wisconsin
+2021,1222,1439,2,Houston,10,Virginia Tech
+2021,1222,1429,2,Houston,11,Utah St
+2021,1222,1457,2,Houston,12,Winthrop
+2021,1222,1317,2,Houston,13,North Texas
+2021,1222,1331,2,Houston,15,Oral Roberts
+2021,1452,1455,3,West Virginia,11,Wichita St
+2021,1452,1458,3,West Virginia,9,Wisconsin
+2021,1452,1457,3,West Virginia,12,Winthrop
+2021,1329,1400,4,Oklahoma St,3,Texas
+2021,1329,1382,4,Oklahoma St,9,St Bonaventure
+2021,1329,1417,4,Oklahoma St,11,UCLA
+2021,1329,1422,4,Oklahoma St,13,UNC Greensboro
+2021,1329,1411,4,Oklahoma St,16,TX Southern
+2021,1329,1438,4,Oklahoma St,4,Virginia
+2021,1329,1425,4,Oklahoma St,6,USC
+2021,1329,1332,4,Oklahoma St,7,Oregon
+2021,1329,1433,4,Oklahoma St,10,VCU
+2021,1329,1455,4,Oklahoma St,11,Wichita St
+2021,1329,1364,4,Oklahoma St,12,UC Santa Barbara
+2021,1329,1452,4,Oklahoma St,3,West Virginia
+2021,1329,1397,4,Oklahoma St,5,Tennessee
+2021,1329,1361,4,Oklahoma St,6,San Diego St
+2021,1329,1353,4,Oklahoma St,10,Rutgers
+2021,1329,1393,4,Oklahoma St,11,Syracuse
+2021,1329,1333,4,Oklahoma St,12,Oregon St
+2021,1329,1345,4,Oklahoma St,4,Purdue
+2021,1329,1437,4,Oklahoma St,5,Villanova
+2021,1329,1403,4,Oklahoma St,6,Texas Tech
+2021,1329,1458,4,Oklahoma St,9,Wisconsin
+2021,1329,1439,4,Oklahoma St,10,Virginia Tech
+2021,1329,1429,4,Oklahoma St,11,Utah St
+2021,1329,1457,4,Oklahoma St,12,Winthrop
+2021,1329,1331,4,Oklahoma St,15,Oral Roberts
+2021,1397,1400,5,Tennessee,3,Texas
+2021,1397,1417,5,Tennessee,11,UCLA
+2021,1397,1422,5,Tennessee,13,UNC Greensboro
+2021,1397,1411,5,Tennessee,16,TX Southern
+2021,1397,1438,5,Tennessee,4,Virginia
+2021,1397,1425,5,Tennessee,6,USC
+2021,1397,1433,5,Tennessee,10,VCU
+2021,1397,1455,5,Tennessee,11,Wichita St
+2021,1397,1452,5,Tennessee,3,West Virginia
+2021,1397,1437,5,Tennessee,5,Villanova
+2021,1397,1403,5,Tennessee,6,Texas Tech
+2021,1397,1458,5,Tennessee,9,Wisconsin
+2021,1397,1439,5,Tennessee,10,Virginia Tech
+2021,1397,1429,5,Tennessee,11,Utah St
+2021,1397,1457,5,Tennessee,12,Winthrop
+2021,1361,1400,6,San Diego St,3,Texas
+2021,1361,1382,6,San Diego St,9,St Bonaventure
+2021,1361,1417,6,San Diego St,11,UCLA
+2021,1361,1422,6,San Diego St,13,UNC Greensboro
+2021,1361,1411,6,San Diego St,16,TX Southern
+2021,1361,1438,6,San Diego St,4,Virginia
+2021,1361,1425,6,San Diego St,6,USC
+2021,1361,1433,6,San Diego St,10,VCU
+2021,1361,1455,6,San Diego St,11,Wichita St
+2021,1361,1364,6,San Diego St,12,UC Santa Barbara
+2021,1361,1452,6,San Diego St,3,West Virginia
+2021,1361,1397,6,San Diego St,5,Tennessee
+2021,1361,1393,6,San Diego St,11,Syracuse
+2021,1361,1437,6,San Diego St,5,Villanova
+2021,1361,1403,6,San Diego St,6,Texas Tech
+2021,1361,1458,6,San Diego St,9,Wisconsin
+2021,1361,1439,6,San Diego St,10,Virginia Tech
+2021,1361,1429,6,San Diego St,11,Utah St
+2021,1361,1457,6,San Diego St,12,Winthrop
+2021,1155,1276,7,Clemson,1,Michigan
+2021,1155,1400,7,Clemson,3,Texas
+2021,1155,1199,7,Clemson,4,Florida St
+2021,1155,1160,7,Clemson,5,Colorado
+2021,1155,1163,7,Clemson,7,Connecticut
+2021,1155,1261,7,Clemson,8,LSU
+2021,1155,1382,7,Clemson,9,St Bonaventure
+2021,1155,1268,7,Clemson,10,Maryland
+2021,1155,1277,7,Clemson,11,Michigan St
+2021,1155,1417,7,Clemson,11,UCLA
+2021,1155,1207,7,Clemson,12,Georgetown
+2021,1155,1422,7,Clemson,13,UNC Greensboro
+2021,1155,1233,7,Clemson,15,Iona
+2021,1155,1291,7,Clemson,16,Mt St Mary's
+2021,1155,1411,7,Clemson,16,TX Southern
+2021,1155,1211,7,Clemson,1,Gonzaga
+2021,1155,1234,7,Clemson,2,Iowa
+2021,1155,1242,7,Clemson,3,Kansas
+2021,1155,1438,7,Clemson,4,Virginia
+2021,1155,1166,7,Clemson,5,Creighton
+2021,1155,1425,7,Clemson,6,USC
+2021,1155,1332,7,Clemson,7,Oregon
+2021,1155,1328,7,Clemson,8,Oklahoma
+2021,1155,1281,7,Clemson,9,Missouri
+2021,1155,1433,7,Clemson,10,VCU
+2021,1155,1179,7,Clemson,11,Drake
+2021,1155,1455,7,Clemson,11,Wichita St
+2021,1155,1364,7,Clemson,12,UC Santa Barbara
+2021,1155,1325,7,Clemson,13,Ohio
+2021,1155,1186,7,Clemson,14,E Washington
+2021,1155,1213,7,Clemson,15,Grand Canyon
+2021,1155,1313,7,Clemson,16,Norfolk St
+2021,1155,1228,7,Clemson,1,Illinois
+2021,1155,1222,7,Clemson,2,Houston
+2021,1155,1452,7,Clemson,3,West Virginia
+2021,1155,1329,7,Clemson,4,Oklahoma St
+2021,1155,1397,7,Clemson,5,Tennessee
+2021,1155,1361,7,Clemson,6,San Diego St
+2021,1155,1260,7,Clemson,8,Loyola-Chicago
+2021,1155,1210,7,Clemson,9,Georgia Tech
+2021,1155,1353,7,Clemson,10,Rutgers
+2021,1155,1393,7,Clemson,11,Syracuse
+2021,1155,1333,7,Clemson,12,Oregon St
+2021,1155,1251,7,Clemson,13,Liberty
+2021,1155,1287,7,Clemson,14,Morehead St
+2021,1155,1156,7,Clemson,15,Cleveland St
+2021,1155,1180,7,Clemson,16,Drexel
+2021,1155,1326,7,Clemson,2,Ohio St
+2021,1155,1345,7,Clemson,4,Purdue
+2021,1155,1437,7,Clemson,5,Villanova
+2021,1155,1403,7,Clemson,6,Texas Tech
+2021,1155,1196,7,Clemson,7,Florida
+2021,1155,1314,7,Clemson,8,North Carolina
+2021,1155,1458,7,Clemson,9,Wisconsin
+2021,1155,1439,7,Clemson,10,Virginia Tech
+2021,1155,1429,7,Clemson,11,Utah St
+2021,1155,1457,7,Clemson,12,Winthrop
+2021,1155,1317,7,Clemson,13,North Texas
+2021,1155,1159,7,Clemson,14,Colgate
+2021,1155,1331,7,Clemson,15,Oral Roberts
+2021,1155,1216,7,Clemson,16,Hartford
+2021,1260,1276,8,Loyola-Chicago,1,Michigan
+2021,1260,1400,8,Loyola-Chicago,3,Texas
+2021,1260,1261,8,Loyola-Chicago,8,LSU
+2021,1260,1382,8,Loyola-Chicago,9,St Bonaventure
+2021,1260,1268,8,Loyola-Chicago,10,Maryland
+2021,1260,1277,8,Loyola-Chicago,11,Michigan St
+2021,1260,1417,8,Loyola-Chicago,11,UCLA
+2021,1260,1422,8,Loyola-Chicago,13,UNC Greensboro
+2021,1260,1291,8,Loyola-Chicago,16,Mt St Mary's
+2021,1260,1411,8,Loyola-Chicago,16,TX Southern
+2021,1260,1438,8,Loyola-Chicago,4,Virginia
+2021,1260,1425,8,Loyola-Chicago,6,USC
+2021,1260,1332,8,Loyola-Chicago,7,Oregon
+2021,1260,1328,8,Loyola-Chicago,8,Oklahoma
+2021,1260,1281,8,Loyola-Chicago,9,Missouri
+2021,1260,1433,8,Loyola-Chicago,10,VCU
+2021,1260,1455,8,Loyola-Chicago,11,Wichita St
+2021,1260,1364,8,Loyola-Chicago,12,UC Santa Barbara
+2021,1260,1325,8,Loyola-Chicago,13,Ohio
+2021,1260,1313,8,Loyola-Chicago,16,Norfolk St
+2021,1260,1452,8,Loyola-Chicago,3,West Virginia
+2021,1260,1329,8,Loyola-Chicago,4,Oklahoma St
+2021,1260,1397,8,Loyola-Chicago,5,Tennessee
+2021,1260,1361,8,Loyola-Chicago,6,San Diego St
+2021,1260,1353,8,Loyola-Chicago,10,Rutgers
+2021,1260,1393,8,Loyola-Chicago,11,Syracuse
+2021,1260,1333,8,Loyola-Chicago,12,Oregon St
+2021,1260,1287,8,Loyola-Chicago,14,Morehead St
+2021,1260,1326,8,Loyola-Chicago,2,Ohio St
+2021,1260,1345,8,Loyola-Chicago,4,Purdue
+2021,1260,1437,8,Loyola-Chicago,5,Villanova
+2021,1260,1403,8,Loyola-Chicago,6,Texas Tech
+2021,1260,1314,8,Loyola-Chicago,8,North Carolina
+2021,1260,1458,8,Loyola-Chicago,9,Wisconsin
+2021,1260,1439,8,Loyola-Chicago,10,Virginia Tech
+2021,1260,1429,8,Loyola-Chicago,11,Utah St
+2021,1260,1457,8,Loyola-Chicago,12,Winthrop
+2021,1260,1317,8,Loyola-Chicago,13,North Texas
+2021,1260,1331,8,Loyola-Chicago,15,Oral Roberts
+2021,1210,1276,9,Georgia Tech,1,Michigan
+2021,1210,1400,9,Georgia Tech,3,Texas
+2021,1210,1261,9,Georgia Tech,8,LSU
+2021,1210,1382,9,Georgia Tech,9,St Bonaventure
+2021,1210,1268,9,Georgia Tech,10,Maryland
+2021,1210,1277,9,Georgia Tech,11,Michigan St
+2021,1210,1417,9,Georgia Tech,11,UCLA
+2021,1210,1422,9,Georgia Tech,13,UNC Greensboro
+2021,1210,1233,9,Georgia Tech,15,Iona
+2021,1210,1291,9,Georgia Tech,16,Mt St Mary's
+2021,1210,1411,9,Georgia Tech,16,TX Southern
+2021,1210,1211,9,Georgia Tech,1,Gonzaga
+2021,1210,1234,9,Georgia Tech,2,Iowa
+2021,1210,1242,9,Georgia Tech,3,Kansas
+2021,1210,1438,9,Georgia Tech,4,Virginia
+2021,1210,1425,9,Georgia Tech,6,USC
+2021,1210,1332,9,Georgia Tech,7,Oregon
+2021,1210,1328,9,Georgia Tech,8,Oklahoma
+2021,1210,1281,9,Georgia Tech,9,Missouri
+2021,1210,1433,9,Georgia Tech,10,VCU
+2021,1210,1455,9,Georgia Tech,11,Wichita St
+2021,1210,1364,9,Georgia Tech,12,UC Santa Barbara
+2021,1210,1325,9,Georgia Tech,13,Ohio
+2021,1210,1213,9,Georgia Tech,15,Grand Canyon
+2021,1210,1313,9,Georgia Tech,16,Norfolk St
+2021,1210,1228,9,Georgia Tech,1,Illinois
+2021,1210,1222,9,Georgia Tech,2,Houston
+2021,1210,1452,9,Georgia Tech,3,West Virginia
+2021,1210,1329,9,Georgia Tech,4,Oklahoma St
+2021,1210,1397,9,Georgia Tech,5,Tennessee
+2021,1210,1361,9,Georgia Tech,6,San Diego St
+2021,1210,1260,9,Georgia Tech,8,Loyola-Chicago
+2021,1210,1353,9,Georgia Tech,10,Rutgers
+2021,1210,1393,9,Georgia Tech,11,Syracuse
+2021,1210,1333,9,Georgia Tech,12,Oregon St
+2021,1210,1251,9,Georgia Tech,13,Liberty
+2021,1210,1287,9,Georgia Tech,14,Morehead St
+2021,1210,1326,9,Georgia Tech,2,Ohio St
+2021,1210,1345,9,Georgia Tech,4,Purdue
+2021,1210,1437,9,Georgia Tech,5,Villanova
+2021,1210,1403,9,Georgia Tech,6,Texas Tech
+2021,1210,1314,9,Georgia Tech,8,North Carolina
+2021,1210,1458,9,Georgia Tech,9,Wisconsin
+2021,1210,1439,9,Georgia Tech,10,Virginia Tech
+2021,1210,1429,9,Georgia Tech,11,Utah St
+2021,1210,1457,9,Georgia Tech,12,Winthrop
+2021,1210,1317,9,Georgia Tech,13,North Texas
+2021,1210,1331,9,Georgia Tech,15,Oral Roberts
+2021,1210,1216,9,Georgia Tech,16,Hartford
+2021,1353,1400,10,Rutgers,3,Texas
+2021,1353,1382,10,Rutgers,9,St Bonaventure
+2021,1353,1417,10,Rutgers,11,UCLA
+2021,1353,1422,10,Rutgers,13,UNC Greensboro
+2021,1353,1411,10,Rutgers,16,TX Southern
+2021,1353,1438,10,Rutgers,4,Virginia
+2021,1353,1425,10,Rutgers,6,USC
+2021,1353,1433,10,Rutgers,10,VCU
+2021,1353,1455,10,Rutgers,11,Wichita St
+2021,1353,1364,10,Rutgers,12,UC Santa Barbara
+2021,1353,1452,10,Rutgers,3,West Virginia
+2021,1353,1397,10,Rutgers,5,Tennessee
+2021,1353,1361,10,Rutgers,6,San Diego St
+2021,1353,1393,10,Rutgers,11,Syracuse
+2021,1353,1437,10,Rutgers,5,Villanova
+2021,1353,1403,10,Rutgers,6,Texas Tech
+2021,1353,1458,10,Rutgers,9,Wisconsin
+2021,1353,1439,10,Rutgers,10,Virginia Tech
+2021,1353,1429,10,Rutgers,11,Utah St
+2021,1353,1457,10,Rutgers,12,Winthrop
+2021,1393,1400,11,Syracuse,3,Texas
+2021,1393,1417,11,Syracuse,11,UCLA
+2021,1393,1422,11,Syracuse,13,UNC Greensboro
+2021,1393,1411,11,Syracuse,16,TX Southern
+2021,1393,1438,11,Syracuse,4,Virginia
+2021,1393,1425,11,Syracuse,6,USC
+2021,1393,1433,11,Syracuse,10,VCU
+2021,1393,1455,11,Syracuse,11,Wichita St
+2021,1393,1452,11,Syracuse,3,West Virginia
+2021,1393,1397,11,Syracuse,5,Tennessee
+2021,1393,1437,11,Syracuse,5,Villanova
+2021,1393,1403,11,Syracuse,6,Texas Tech
+2021,1393,1458,11,Syracuse,9,Wisconsin
+2021,1393,1439,11,Syracuse,10,Virginia Tech
+2021,1393,1429,11,Syracuse,11,Utah St
+2021,1393,1457,11,Syracuse,12,Winthrop
+2021,1333,1400,12,Oregon St,3,Texas
+2021,1333,1382,12,Oregon St,9,St Bonaventure
+2021,1333,1417,12,Oregon St,11,UCLA
+2021,1333,1422,12,Oregon St,13,UNC Greensboro
+2021,1333,1411,12,Oregon St,16,TX Southern
+2021,1333,1438,12,Oregon St,4,Virginia
+2021,1333,1425,12,Oregon St,6,USC
+2021,1333,1433,12,Oregon St,10,VCU
+2021,1333,1455,12,Oregon St,11,Wichita St
+2021,1333,1364,12,Oregon St,12,UC Santa Barbara
+2021,1333,1452,12,Oregon St,3,West Virginia
+2021,1333,1397,12,Oregon St,5,Tennessee
+2021,1333,1361,12,Oregon St,6,San Diego St
+2021,1333,1353,12,Oregon St,10,Rutgers
+2021,1333,1393,12,Oregon St,11,Syracuse
+2021,1333,1345,12,Oregon St,4,Purdue
+2021,1333,1437,12,Oregon St,5,Villanova
+2021,1333,1403,12,Oregon St,6,Texas Tech
+2021,1333,1458,12,Oregon St,9,Wisconsin
+2021,1333,1439,12,Oregon St,10,Virginia Tech
+2021,1333,1429,12,Oregon St,11,Utah St
+2021,1333,1457,12,Oregon St,12,Winthrop
+2021,1251,1276,13,Liberty,1,Michigan
+2021,1251,1400,13,Liberty,3,Texas
+2021,1251,1261,13,Liberty,8,LSU
+2021,1251,1382,13,Liberty,9,St Bonaventure
+2021,1251,1268,13,Liberty,10,Maryland
+2021,1251,1277,13,Liberty,11,Michigan St
+2021,1251,1417,13,Liberty,11,UCLA
+2021,1251,1422,13,Liberty,13,UNC Greensboro
+2021,1251,1291,13,Liberty,16,Mt St Mary's
+2021,1251,1411,13,Liberty,16,TX Southern
+2021,1251,1438,13,Liberty,4,Virginia
+2021,1251,1425,13,Liberty,6,USC
+2021,1251,1332,13,Liberty,7,Oregon
+2021,1251,1328,13,Liberty,8,Oklahoma
+2021,1251,1281,13,Liberty,9,Missouri
+2021,1251,1433,13,Liberty,10,VCU
+2021,1251,1455,13,Liberty,11,Wichita St
+2021,1251,1364,13,Liberty,12,UC Santa Barbara
+2021,1251,1325,13,Liberty,13,Ohio
+2021,1251,1313,13,Liberty,16,Norfolk St
+2021,1251,1452,13,Liberty,3,West Virginia
+2021,1251,1329,13,Liberty,4,Oklahoma St
+2021,1251,1397,13,Liberty,5,Tennessee
+2021,1251,1361,13,Liberty,6,San Diego St
+2021,1251,1260,13,Liberty,8,Loyola-Chicago
+2021,1251,1353,13,Liberty,10,Rutgers
+2021,1251,1393,13,Liberty,11,Syracuse
+2021,1251,1333,13,Liberty,12,Oregon St
+2021,1251,1287,13,Liberty,14,Morehead St
+2021,1251,1326,13,Liberty,2,Ohio St
+2021,1251,1345,13,Liberty,4,Purdue
+2021,1251,1437,13,Liberty,5,Villanova
+2021,1251,1403,13,Liberty,6,Texas Tech
+2021,1251,1314,13,Liberty,8,North Carolina
+2021,1251,1458,13,Liberty,9,Wisconsin
+2021,1251,1439,13,Liberty,10,Virginia Tech
+2021,1251,1429,13,Liberty,11,Utah St
+2021,1251,1457,13,Liberty,12,Winthrop
+2021,1251,1317,13,Liberty,13,North Texas
+2021,1251,1331,13,Liberty,15,Oral Roberts
+2021,1287,1400,14,Morehead St,3,Texas
+2021,1287,1382,14,Morehead St,9,St Bonaventure
+2021,1287,1417,14,Morehead St,11,UCLA
+2021,1287,1422,14,Morehead St,13,UNC Greensboro
+2021,1287,1291,14,Morehead St,16,Mt St Mary's
+2021,1287,1411,14,Morehead St,16,TX Southern
+2021,1287,1438,14,Morehead St,4,Virginia
+2021,1287,1425,14,Morehead St,6,USC
+2021,1287,1332,14,Morehead St,7,Oregon
+2021,1287,1328,14,Morehead St,8,Oklahoma
+2021,1287,1433,14,Morehead St,10,VCU
+2021,1287,1455,14,Morehead St,11,Wichita St
+2021,1287,1364,14,Morehead St,12,UC Santa Barbara
+2021,1287,1325,14,Morehead St,13,Ohio
+2021,1287,1313,14,Morehead St,16,Norfolk St
+2021,1287,1452,14,Morehead St,3,West Virginia
+2021,1287,1329,14,Morehead St,4,Oklahoma St
+2021,1287,1397,14,Morehead St,5,Tennessee
+2021,1287,1361,14,Morehead St,6,San Diego St
+2021,1287,1353,14,Morehead St,10,Rutgers
+2021,1287,1393,14,Morehead St,11,Syracuse
+2021,1287,1333,14,Morehead St,12,Oregon St
+2021,1287,1326,14,Morehead St,2,Ohio St
+2021,1287,1345,14,Morehead St,4,Purdue
+2021,1287,1437,14,Morehead St,5,Villanova
+2021,1287,1403,14,Morehead St,6,Texas Tech
+2021,1287,1314,14,Morehead St,8,North Carolina
+2021,1287,1458,14,Morehead St,9,Wisconsin
+2021,1287,1439,14,Morehead St,10,Virginia Tech
+2021,1287,1429,14,Morehead St,11,Utah St
+2021,1287,1457,14,Morehead St,12,Winthrop
+2021,1287,1317,14,Morehead St,13,North Texas
+2021,1287,1331,14,Morehead St,15,Oral Roberts
+2021,1156,1276,15,Cleveland St,1,Michigan
+2021,1156,1400,15,Cleveland St,3,Texas
+2021,1156,1199,15,Cleveland St,4,Florida St
+2021,1156,1160,15,Cleveland St,5,Colorado
+2021,1156,1163,15,Cleveland St,7,Connecticut
+2021,1156,1261,15,Cleveland St,8,LSU
+2021,1156,1382,15,Cleveland St,9,St Bonaventure
+2021,1156,1268,15,Cleveland St,10,Maryland
+2021,1156,1277,15,Cleveland St,11,Michigan St
+2021,1156,1417,15,Cleveland St,11,UCLA
+2021,1156,1207,15,Cleveland St,12,Georgetown
+2021,1156,1422,15,Cleveland St,13,UNC Greensboro
+2021,1156,1233,15,Cleveland St,15,Iona
+2021,1156,1291,15,Cleveland St,16,Mt St Mary's
+2021,1156,1411,15,Cleveland St,16,TX Southern
+2021,1156,1211,15,Cleveland St,1,Gonzaga
+2021,1156,1234,15,Cleveland St,2,Iowa
+2021,1156,1242,15,Cleveland St,3,Kansas
+2021,1156,1438,15,Cleveland St,4,Virginia
+2021,1156,1166,15,Cleveland St,5,Creighton
+2021,1156,1425,15,Cleveland St,6,USC
+2021,1156,1332,15,Cleveland St,7,Oregon
+2021,1156,1328,15,Cleveland St,8,Oklahoma
+2021,1156,1281,15,Cleveland St,9,Missouri
+2021,1156,1433,15,Cleveland St,10,VCU
+2021,1156,1179,15,Cleveland St,11,Drake
+2021,1156,1455,15,Cleveland St,11,Wichita St
+2021,1156,1364,15,Cleveland St,12,UC Santa Barbara
+2021,1156,1325,15,Cleveland St,13,Ohio
+2021,1156,1186,15,Cleveland St,14,E Washington
+2021,1156,1213,15,Cleveland St,15,Grand Canyon
+2021,1156,1313,15,Cleveland St,16,Norfolk St
+2021,1156,1228,15,Cleveland St,1,Illinois
+2021,1156,1222,15,Cleveland St,2,Houston
+2021,1156,1452,15,Cleveland St,3,West Virginia
+2021,1156,1329,15,Cleveland St,4,Oklahoma St
+2021,1156,1397,15,Cleveland St,5,Tennessee
+2021,1156,1361,15,Cleveland St,6,San Diego St
+2021,1156,1260,15,Cleveland St,8,Loyola-Chicago
+2021,1156,1210,15,Cleveland St,9,Georgia Tech
+2021,1156,1353,15,Cleveland St,10,Rutgers
+2021,1156,1393,15,Cleveland St,11,Syracuse
+2021,1156,1333,15,Cleveland St,12,Oregon St
+2021,1156,1251,15,Cleveland St,13,Liberty
+2021,1156,1287,15,Cleveland St,14,Morehead St
+2021,1156,1180,15,Cleveland St,16,Drexel
+2021,1156,1326,15,Cleveland St,2,Ohio St
+2021,1156,1345,15,Cleveland St,4,Purdue
+2021,1156,1437,15,Cleveland St,5,Villanova
+2021,1156,1403,15,Cleveland St,6,Texas Tech
+2021,1156,1196,15,Cleveland St,7,Florida
+2021,1156,1314,15,Cleveland St,8,North Carolina
+2021,1156,1458,15,Cleveland St,9,Wisconsin
+2021,1156,1439,15,Cleveland St,10,Virginia Tech
+2021,1156,1429,15,Cleveland St,11,Utah St
+2021,1156,1457,15,Cleveland St,12,Winthrop
+2021,1156,1317,15,Cleveland St,13,North Texas
+2021,1156,1159,15,Cleveland St,14,Colgate
+2021,1156,1331,15,Cleveland St,15,Oral Roberts
+2021,1156,1216,15,Cleveland St,16,Hartford
+2021,1180,1276,16,Drexel,1,Michigan
+2021,1180,1400,16,Drexel,3,Texas
+2021,1180,1199,16,Drexel,4,Florida St
+2021,1180,1261,16,Drexel,8,LSU
+2021,1180,1382,16,Drexel,9,St Bonaventure
+2021,1180,1268,16,Drexel,10,Maryland
+2021,1180,1277,16,Drexel,11,Michigan St
+2021,1180,1417,16,Drexel,11,UCLA
+2021,1180,1207,16,Drexel,12,Georgetown
+2021,1180,1422,16,Drexel,13,UNC Greensboro
+2021,1180,1233,16,Drexel,15,Iona
+2021,1180,1291,16,Drexel,16,Mt St Mary's
+2021,1180,1411,16,Drexel,16,TX Southern
+2021,1180,1211,16,Drexel,1,Gonzaga
+2021,1180,1234,16,Drexel,2,Iowa
+2021,1180,1242,16,Drexel,3,Kansas
+2021,1180,1438,16,Drexel,4,Virginia
+2021,1180,1425,16,Drexel,6,USC
+2021,1180,1332,16,Drexel,7,Oregon
+2021,1180,1328,16,Drexel,8,Oklahoma
+2021,1180,1281,16,Drexel,9,Missouri
+2021,1180,1433,16,Drexel,10,VCU
+2021,1180,1455,16,Drexel,11,Wichita St
+2021,1180,1364,16,Drexel,12,UC Santa Barbara
+2021,1180,1325,16,Drexel,13,Ohio
+2021,1180,1186,16,Drexel,14,E Washington
+2021,1180,1213,16,Drexel,15,Grand Canyon
+2021,1180,1313,16,Drexel,16,Norfolk St
+2021,1180,1228,16,Drexel,1,Illinois
+2021,1180,1222,16,Drexel,2,Houston
+2021,1180,1452,16,Drexel,3,West Virginia
+2021,1180,1329,16,Drexel,4,Oklahoma St
+2021,1180,1397,16,Drexel,5,Tennessee
+2021,1180,1361,16,Drexel,6,San Diego St
+2021,1180,1260,16,Drexel,8,Loyola-Chicago
+2021,1180,1210,16,Drexel,9,Georgia Tech
+2021,1180,1353,16,Drexel,10,Rutgers
+2021,1180,1393,16,Drexel,11,Syracuse
+2021,1180,1333,16,Drexel,12,Oregon St
+2021,1180,1251,16,Drexel,13,Liberty
+2021,1180,1287,16,Drexel,14,Morehead St
+2021,1180,1326,16,Drexel,2,Ohio St
+2021,1180,1345,16,Drexel,4,Purdue
+2021,1180,1437,16,Drexel,5,Villanova
+2021,1180,1403,16,Drexel,6,Texas Tech
+2021,1180,1196,16,Drexel,7,Florida
+2021,1180,1314,16,Drexel,8,North Carolina
+2021,1180,1458,16,Drexel,9,Wisconsin
+2021,1180,1439,16,Drexel,10,Virginia Tech
+2021,1180,1429,16,Drexel,11,Utah St
+2021,1180,1457,16,Drexel,12,Winthrop
+2021,1180,1317,16,Drexel,13,North Texas
+2021,1180,1331,16,Drexel,15,Oral Roberts
+2021,1180,1216,16,Drexel,16,Hartford
+2021,1124,1276,1,Baylor,1,Michigan
+2021,1124,1400,1,Baylor,3,Texas
+2021,1124,1199,1,Baylor,4,Florida St
+2021,1124,1160,1,Baylor,5,Colorado
+2021,1124,1140,1,Baylor,6,BYU
+2021,1124,1163,1,Baylor,7,Connecticut
+2021,1124,1261,1,Baylor,8,LSU
+2021,1124,1382,1,Baylor,9,St Bonaventure
+2021,1124,1268,1,Baylor,10,Maryland
+2021,1124,1277,1,Baylor,11,Michigan St
+2021,1124,1417,1,Baylor,11,UCLA
+2021,1124,1207,1,Baylor,12,Georgetown
+2021,1124,1422,1,Baylor,13,UNC Greensboro
+2021,1124,1233,1,Baylor,15,Iona
+2021,1124,1291,1,Baylor,16,Mt St Mary's
+2021,1124,1411,1,Baylor,16,TX Southern
+2021,1124,1211,1,Baylor,1,Gonzaga
+2021,1124,1234,1,Baylor,2,Iowa
+2021,1124,1242,1,Baylor,3,Kansas
+2021,1124,1438,1,Baylor,4,Virginia
+2021,1124,1166,1,Baylor,5,Creighton
+2021,1124,1425,1,Baylor,6,USC
+2021,1124,1332,1,Baylor,7,Oregon
+2021,1124,1328,1,Baylor,8,Oklahoma
+2021,1124,1281,1,Baylor,9,Missouri
+2021,1124,1433,1,Baylor,10,VCU
+2021,1124,1179,1,Baylor,11,Drake
+2021,1124,1455,1,Baylor,11,Wichita St
+2021,1124,1364,1,Baylor,12,UC Santa Barbara
+2021,1124,1325,1,Baylor,13,Ohio
+2021,1124,1186,1,Baylor,14,E Washington
+2021,1124,1213,1,Baylor,15,Grand Canyon
+2021,1124,1313,1,Baylor,16,Norfolk St
+2021,1124,1228,1,Baylor,1,Illinois
+2021,1124,1222,1,Baylor,2,Houston
+2021,1124,1452,1,Baylor,3,West Virginia
+2021,1124,1329,1,Baylor,4,Oklahoma St
+2021,1124,1397,1,Baylor,5,Tennessee
+2021,1124,1361,1,Baylor,6,San Diego St
+2021,1124,1155,1,Baylor,7,Clemson
+2021,1124,1260,1,Baylor,8,Loyola-Chicago
+2021,1124,1210,1,Baylor,9,Georgia Tech
+2021,1124,1353,1,Baylor,10,Rutgers
+2021,1124,1393,1,Baylor,11,Syracuse
+2021,1124,1333,1,Baylor,12,Oregon St
+2021,1124,1251,1,Baylor,13,Liberty
+2021,1124,1287,1,Baylor,14,Morehead St
+2021,1124,1156,1,Baylor,15,Cleveland St
+2021,1124,1180,1,Baylor,16,Drexel
+2021,1124,1326,1,Baylor,2,Ohio St
+2021,1124,1345,1,Baylor,4,Purdue
+2021,1124,1437,1,Baylor,5,Villanova
+2021,1124,1403,1,Baylor,6,Texas Tech
+2021,1124,1196,1,Baylor,7,Florida
+2021,1124,1314,1,Baylor,8,North Carolina
+2021,1124,1458,1,Baylor,9,Wisconsin
+2021,1124,1439,1,Baylor,10,Virginia Tech
+2021,1124,1429,1,Baylor,11,Utah St
+2021,1124,1457,1,Baylor,12,Winthrop
+2021,1124,1317,1,Baylor,13,North Texas
+2021,1124,1159,1,Baylor,14,Colgate
+2021,1124,1331,1,Baylor,15,Oral Roberts
+2021,1124,1216,1,Baylor,16,Hartford
+2021,1326,1400,2,Ohio St,3,Texas
+2021,1326,1382,2,Ohio St,9,St Bonaventure
+2021,1326,1417,2,Ohio St,11,UCLA
+2021,1326,1422,2,Ohio St,13,UNC Greensboro
+2021,1326,1411,2,Ohio St,16,TX Southern
+2021,1326,1438,2,Ohio St,4,Virginia
+2021,1326,1425,2,Ohio St,6,USC
+2021,1326,1332,2,Ohio St,7,Oregon
+2021,1326,1328,2,Ohio St,8,Oklahoma
+2021,1326,1433,2,Ohio St,10,VCU
+2021,1326,1455,2,Ohio St,11,Wichita St
+2021,1326,1364,2,Ohio St,12,UC Santa Barbara
+2021,1326,1452,2,Ohio St,3,West Virginia
+2021,1326,1329,2,Ohio St,4,Oklahoma St
+2021,1326,1397,2,Ohio St,5,Tennessee
+2021,1326,1361,2,Ohio St,6,San Diego St
+2021,1326,1353,2,Ohio St,10,Rutgers
+2021,1326,1393,2,Ohio St,11,Syracuse
+2021,1326,1333,2,Ohio St,12,Oregon St
+2021,1326,1345,2,Ohio St,4,Purdue
+2021,1326,1437,2,Ohio St,5,Villanova
+2021,1326,1403,2,Ohio St,6,Texas Tech
+2021,1326,1458,2,Ohio St,9,Wisconsin
+2021,1326,1439,2,Ohio St,10,Virginia Tech
+2021,1326,1429,2,Ohio St,11,Utah St
+2021,1326,1457,2,Ohio St,12,Winthrop
+2021,1326,1331,2,Ohio St,15,Oral Roberts
+2021,1116,1276,3,Arkansas,1,Michigan
+2021,1116,1400,3,Arkansas,3,Texas
+2021,1116,1199,3,Arkansas,4,Florida St
+2021,1116,1160,3,Arkansas,5,Colorado
+2021,1116,1140,3,Arkansas,6,BYU
+2021,1116,1163,3,Arkansas,7,Connecticut
+2021,1116,1261,3,Arkansas,8,LSU
+2021,1116,1382,3,Arkansas,9,St Bonaventure
+2021,1116,1268,3,Arkansas,10,Maryland
+2021,1116,1277,3,Arkansas,11,Michigan St
+2021,1116,1417,3,Arkansas,11,UCLA
+2021,1116,1207,3,Arkansas,12,Georgetown
+2021,1116,1422,3,Arkansas,13,UNC Greensboro
+2021,1116,1233,3,Arkansas,15,Iona
+2021,1116,1291,3,Arkansas,16,Mt St Mary's
+2021,1116,1411,3,Arkansas,16,TX Southern
+2021,1116,1211,3,Arkansas,1,Gonzaga
+2021,1116,1234,3,Arkansas,2,Iowa
+2021,1116,1242,3,Arkansas,3,Kansas
+2021,1116,1438,3,Arkansas,4,Virginia
+2021,1116,1166,3,Arkansas,5,Creighton
+2021,1116,1425,3,Arkansas,6,USC
+2021,1116,1332,3,Arkansas,7,Oregon
+2021,1116,1328,3,Arkansas,8,Oklahoma
+2021,1116,1281,3,Arkansas,9,Missouri
+2021,1116,1433,3,Arkansas,10,VCU
+2021,1116,1179,3,Arkansas,11,Drake
+2021,1116,1455,3,Arkansas,11,Wichita St
+2021,1116,1364,3,Arkansas,12,UC Santa Barbara
+2021,1116,1325,3,Arkansas,13,Ohio
+2021,1116,1186,3,Arkansas,14,E Washington
+2021,1116,1213,3,Arkansas,15,Grand Canyon
+2021,1116,1313,3,Arkansas,16,Norfolk St
+2021,1116,1228,3,Arkansas,1,Illinois
+2021,1116,1222,3,Arkansas,2,Houston
+2021,1116,1452,3,Arkansas,3,West Virginia
+2021,1116,1329,3,Arkansas,4,Oklahoma St
+2021,1116,1397,3,Arkansas,5,Tennessee
+2021,1116,1361,3,Arkansas,6,San Diego St
+2021,1116,1155,3,Arkansas,7,Clemson
+2021,1116,1260,3,Arkansas,8,Loyola-Chicago
+2021,1116,1210,3,Arkansas,9,Georgia Tech
+2021,1116,1353,3,Arkansas,10,Rutgers
+2021,1116,1393,3,Arkansas,11,Syracuse
+2021,1116,1333,3,Arkansas,12,Oregon St
+2021,1116,1251,3,Arkansas,13,Liberty
+2021,1116,1287,3,Arkansas,14,Morehead St
+2021,1116,1156,3,Arkansas,15,Cleveland St
+2021,1116,1180,3,Arkansas,16,Drexel
+2021,1116,1124,3,Arkansas,1,Baylor
+2021,1116,1326,3,Arkansas,2,Ohio St
+2021,1116,1345,3,Arkansas,4,Purdue
+2021,1116,1437,3,Arkansas,5,Villanova
+2021,1116,1403,3,Arkansas,6,Texas Tech
+2021,1116,1196,3,Arkansas,7,Florida
+2021,1116,1314,3,Arkansas,8,North Carolina
+2021,1116,1458,3,Arkansas,9,Wisconsin
+2021,1116,1439,3,Arkansas,10,Virginia Tech
+2021,1116,1429,3,Arkansas,11,Utah St
+2021,1116,1457,3,Arkansas,12,Winthrop
+2021,1116,1317,3,Arkansas,13,North Texas
+2021,1116,1159,3,Arkansas,14,Colgate
+2021,1116,1331,3,Arkansas,15,Oral Roberts
+2021,1116,1216,3,Arkansas,16,Hartford
+2021,1345,1400,4,Purdue,3,Texas
+2021,1345,1382,4,Purdue,9,St Bonaventure
+2021,1345,1417,4,Purdue,11,UCLA
+2021,1345,1422,4,Purdue,13,UNC Greensboro
+2021,1345,1411,4,Purdue,16,TX Southern
+2021,1345,1438,4,Purdue,4,Virginia
+2021,1345,1425,4,Purdue,6,USC
+2021,1345,1433,4,Purdue,10,VCU
+2021,1345,1455,4,Purdue,11,Wichita St
+2021,1345,1364,4,Purdue,12,UC Santa Barbara
+2021,1345,1452,4,Purdue,3,West Virginia
+2021,1345,1397,4,Purdue,5,Tennessee
+2021,1345,1361,4,Purdue,6,San Diego St
+2021,1345,1353,4,Purdue,10,Rutgers
+2021,1345,1393,4,Purdue,11,Syracuse
+2021,1345,1437,4,Purdue,5,Villanova
+2021,1345,1403,4,Purdue,6,Texas Tech
+2021,1345,1458,4,Purdue,9,Wisconsin
+2021,1345,1439,4,Purdue,10,Virginia Tech
+2021,1345,1429,4,Purdue,11,Utah St
+2021,1345,1457,4,Purdue,12,Winthrop
+2021,1437,1438,5,Villanova,4,Virginia
+2021,1437,1455,5,Villanova,11,Wichita St
+2021,1437,1452,5,Villanova,3,West Virginia
+2021,1437,1458,5,Villanova,9,Wisconsin
+2021,1437,1439,5,Villanova,10,Virginia Tech
+2021,1437,1457,5,Villanova,12,Winthrop
+2021,1403,1417,6,Texas Tech,11,UCLA
+2021,1403,1422,6,Texas Tech,13,UNC Greensboro
+2021,1403,1411,6,Texas Tech,16,TX Southern
+2021,1403,1438,6,Texas Tech,4,Virginia
+2021,1403,1425,6,Texas Tech,6,USC
+2021,1403,1433,6,Texas Tech,10,VCU
+2021,1403,1455,6,Texas Tech,11,Wichita St
+2021,1403,1452,6,Texas Tech,3,West Virginia
+2021,1403,1437,6,Texas Tech,5,Villanova
+2021,1403,1458,6,Texas Tech,9,Wisconsin
+2021,1403,1439,6,Texas Tech,10,Virginia Tech
+2021,1403,1429,6,Texas Tech,11,Utah St
+2021,1403,1457,6,Texas Tech,12,Winthrop
+2021,1196,1276,7,Florida,1,Michigan
+2021,1196,1400,7,Florida,3,Texas
+2021,1196,1199,7,Florida,4,Florida St
+2021,1196,1261,7,Florida,8,LSU
+2021,1196,1382,7,Florida,9,St Bonaventure
+2021,1196,1268,7,Florida,10,Maryland
+2021,1196,1277,7,Florida,11,Michigan St
+2021,1196,1417,7,Florida,11,UCLA
+2021,1196,1207,7,Florida,12,Georgetown
+2021,1196,1422,7,Florida,13,UNC Greensboro
+2021,1196,1233,7,Florida,15,Iona
+2021,1196,1291,7,Florida,16,Mt St Mary's
+2021,1196,1411,7,Florida,16,TX Southern
+2021,1196,1211,7,Florida,1,Gonzaga
+2021,1196,1234,7,Florida,2,Iowa
+2021,1196,1242,7,Florida,3,Kansas
+2021,1196,1438,7,Florida,4,Virginia
+2021,1196,1425,7,Florida,6,USC
+2021,1196,1332,7,Florida,7,Oregon
+2021,1196,1328,7,Florida,8,Oklahoma
+2021,1196,1281,7,Florida,9,Missouri
+2021,1196,1433,7,Florida,10,VCU
+2021,1196,1455,7,Florida,11,Wichita St
+2021,1196,1364,7,Florida,12,UC Santa Barbara
+2021,1196,1325,7,Florida,13,Ohio
+2021,1196,1213,7,Florida,15,Grand Canyon
+2021,1196,1313,7,Florida,16,Norfolk St
+2021,1196,1228,7,Florida,1,Illinois
+2021,1196,1222,7,Florida,2,Houston
+2021,1196,1452,7,Florida,3,West Virginia
+2021,1196,1329,7,Florida,4,Oklahoma St
+2021,1196,1397,7,Florida,5,Tennessee
+2021,1196,1361,7,Florida,6,San Diego St
+2021,1196,1260,7,Florida,8,Loyola-Chicago
+2021,1196,1210,7,Florida,9,Georgia Tech
+2021,1196,1353,7,Florida,10,Rutgers
+2021,1196,1393,7,Florida,11,Syracuse
+2021,1196,1333,7,Florida,12,Oregon St
+2021,1196,1251,7,Florida,13,Liberty
+2021,1196,1287,7,Florida,14,Morehead St
+2021,1196,1326,7,Florida,2,Ohio St
+2021,1196,1345,7,Florida,4,Purdue
+2021,1196,1437,7,Florida,5,Villanova
+2021,1196,1403,7,Florida,6,Texas Tech
+2021,1196,1314,7,Florida,8,North Carolina
+2021,1196,1458,7,Florida,9,Wisconsin
+2021,1196,1439,7,Florida,10,Virginia Tech
+2021,1196,1429,7,Florida,11,Utah St
+2021,1196,1457,7,Florida,12,Winthrop
+2021,1196,1317,7,Florida,13,North Texas
+2021,1196,1331,7,Florida,15,Oral Roberts
+2021,1196,1216,7,Florida,16,Hartford
+2021,1314,1400,8,North Carolina,3,Texas
+2021,1314,1382,8,North Carolina,9,St Bonaventure
+2021,1314,1417,8,North Carolina,11,UCLA
+2021,1314,1422,8,North Carolina,13,UNC Greensboro
+2021,1314,1411,8,North Carolina,16,TX Southern
+2021,1314,1438,8,North Carolina,4,Virginia
+2021,1314,1425,8,North Carolina,6,USC
+2021,1314,1332,8,North Carolina,7,Oregon
+2021,1314,1328,8,North Carolina,8,Oklahoma
+2021,1314,1433,8,North Carolina,10,VCU
+2021,1314,1455,8,North Carolina,11,Wichita St
+2021,1314,1364,8,North Carolina,12,UC Santa Barbara
+2021,1314,1325,8,North Carolina,13,Ohio
+2021,1314,1452,8,North Carolina,3,West Virginia
+2021,1314,1329,8,North Carolina,4,Oklahoma St
+2021,1314,1397,8,North Carolina,5,Tennessee
+2021,1314,1361,8,North Carolina,6,San Diego St
+2021,1314,1353,8,North Carolina,10,Rutgers
+2021,1314,1393,8,North Carolina,11,Syracuse
+2021,1314,1333,8,North Carolina,12,Oregon St
+2021,1314,1326,8,North Carolina,2,Ohio St
+2021,1314,1345,8,North Carolina,4,Purdue
+2021,1314,1437,8,North Carolina,5,Villanova
+2021,1314,1403,8,North Carolina,6,Texas Tech
+2021,1314,1458,8,North Carolina,9,Wisconsin
+2021,1314,1439,8,North Carolina,10,Virginia Tech
+2021,1314,1429,8,North Carolina,11,Utah St
+2021,1314,1457,8,North Carolina,12,Winthrop
+2021,1314,1317,8,North Carolina,13,North Texas
+2021,1314,1331,8,North Carolina,15,Oral Roberts
+2021,1439,1455,10,Virginia Tech,11,Wichita St
+2021,1439,1452,10,Virginia Tech,3,West Virginia
+2021,1439,1458,10,Virginia Tech,9,Wisconsin
+2021,1439,1457,10,Virginia Tech,12,Winthrop
+2021,1429,1438,11,Utah St,4,Virginia
+2021,1429,1433,11,Utah St,10,VCU
+2021,1429,1455,11,Utah St,11,Wichita St
+2021,1429,1452,11,Utah St,3,West Virginia
+2021,1429,1437,11,Utah St,5,Villanova
+2021,1429,1458,11,Utah St,9,Wisconsin
+2021,1429,1439,11,Utah St,10,Virginia Tech
+2021,1429,1457,11,Utah St,12,Winthrop
+2021,1457,1458,12,Winthrop,9,Wisconsin
+2021,1317,1400,13,North Texas,3,Texas
+2021,1317,1382,13,North Texas,9,St Bonaventure
+2021,1317,1417,13,North Texas,11,UCLA
+2021,1317,1422,13,North Texas,13,UNC Greensboro
+2021,1317,1411,13,North Texas,16,TX Southern
+2021,1317,1438,13,North Texas,4,Virginia
+2021,1317,1425,13,North Texas,6,USC
+2021,1317,1332,13,North Texas,7,Oregon
+2021,1317,1328,13,North Texas,8,Oklahoma
+2021,1317,1433,13,North Texas,10,VCU
+2021,1317,1455,13,North Texas,11,Wichita St
+2021,1317,1364,13,North Texas,12,UC Santa Barbara
+2021,1317,1325,13,North Texas,13,Ohio
+2021,1317,1452,13,North Texas,3,West Virginia
+2021,1317,1329,13,North Texas,4,Oklahoma St
+2021,1317,1397,13,North Texas,5,Tennessee
+2021,1317,1361,13,North Texas,6,San Diego St
+2021,1317,1353,13,North Texas,10,Rutgers
+2021,1317,1393,13,North Texas,11,Syracuse
+2021,1317,1333,13,North Texas,12,Oregon St
+2021,1317,1326,13,North Texas,2,Ohio St
+2021,1317,1345,13,North Texas,4,Purdue
+2021,1317,1437,13,North Texas,5,Villanova
+2021,1317,1403,13,North Texas,6,Texas Tech
+2021,1317,1458,13,North Texas,9,Wisconsin
+2021,1317,1439,13,North Texas,10,Virginia Tech
+2021,1317,1429,13,North Texas,11,Utah St
+2021,1317,1457,13,North Texas,12,Winthrop
+2021,1317,1331,13,North Texas,15,Oral Roberts
+2021,1159,1276,14,Colgate,1,Michigan
+2021,1159,1400,14,Colgate,3,Texas
+2021,1159,1199,14,Colgate,4,Florida St
+2021,1159,1160,14,Colgate,5,Colorado
+2021,1159,1163,14,Colgate,7,Connecticut
+2021,1159,1261,14,Colgate,8,LSU
+2021,1159,1382,14,Colgate,9,St Bonaventure
+2021,1159,1268,14,Colgate,10,Maryland
+2021,1159,1277,14,Colgate,11,Michigan St
+2021,1159,1417,14,Colgate,11,UCLA
+2021,1159,1207,14,Colgate,12,Georgetown
+2021,1159,1422,14,Colgate,13,UNC Greensboro
+2021,1159,1233,14,Colgate,15,Iona
+2021,1159,1291,14,Colgate,16,Mt St Mary's
+2021,1159,1411,14,Colgate,16,TX Southern
+2021,1159,1211,14,Colgate,1,Gonzaga
+2021,1159,1234,14,Colgate,2,Iowa
+2021,1159,1242,14,Colgate,3,Kansas
+2021,1159,1438,14,Colgate,4,Virginia
+2021,1159,1166,14,Colgate,5,Creighton
+2021,1159,1425,14,Colgate,6,USC
+2021,1159,1332,14,Colgate,7,Oregon
+2021,1159,1328,14,Colgate,8,Oklahoma
+2021,1159,1281,14,Colgate,9,Missouri
+2021,1159,1433,14,Colgate,10,VCU
+2021,1159,1179,14,Colgate,11,Drake
+2021,1159,1455,14,Colgate,11,Wichita St
+2021,1159,1364,14,Colgate,12,UC Santa Barbara
+2021,1159,1325,14,Colgate,13,Ohio
+2021,1159,1186,14,Colgate,14,E Washington
+2021,1159,1213,14,Colgate,15,Grand Canyon
+2021,1159,1313,14,Colgate,16,Norfolk St
+2021,1159,1228,14,Colgate,1,Illinois
+2021,1159,1222,14,Colgate,2,Houston
+2021,1159,1452,14,Colgate,3,West Virginia
+2021,1159,1329,14,Colgate,4,Oklahoma St
+2021,1159,1397,14,Colgate,5,Tennessee
+2021,1159,1361,14,Colgate,6,San Diego St
+2021,1159,1260,14,Colgate,8,Loyola-Chicago
+2021,1159,1210,14,Colgate,9,Georgia Tech
+2021,1159,1353,14,Colgate,10,Rutgers
+2021,1159,1393,14,Colgate,11,Syracuse
+2021,1159,1333,14,Colgate,12,Oregon St
+2021,1159,1251,14,Colgate,13,Liberty
+2021,1159,1287,14,Colgate,14,Morehead St
+2021,1159,1180,14,Colgate,16,Drexel
+2021,1159,1326,14,Colgate,2,Ohio St
+2021,1159,1345,14,Colgate,4,Purdue
+2021,1159,1437,14,Colgate,5,Villanova
+2021,1159,1403,14,Colgate,6,Texas Tech
+2021,1159,1196,14,Colgate,7,Florida
+2021,1159,1314,14,Colgate,8,North Carolina
+2021,1159,1458,14,Colgate,9,Wisconsin
+2021,1159,1439,14,Colgate,10,Virginia Tech
+2021,1159,1429,14,Colgate,11,Utah St
+2021,1159,1457,14,Colgate,12,Winthrop
+2021,1159,1317,14,Colgate,13,North Texas
+2021,1159,1331,14,Colgate,15,Oral Roberts
+2021,1159,1216,14,Colgate,16,Hartford
+2021,1331,1400,15,Oral Roberts,3,Texas
+2021,1331,1382,15,Oral Roberts,9,St Bonaventure
+2021,1331,1417,15,Oral Roberts,11,UCLA
+2021,1331,1422,15,Oral Roberts,13,UNC Greensboro
+2021,1331,1411,15,Oral Roberts,16,TX Southern
+2021,1331,1438,15,Oral Roberts,4,Virginia
+2021,1331,1425,15,Oral Roberts,6,USC
+2021,1331,1332,15,Oral Roberts,7,Oregon
+2021,1331,1433,15,Oral Roberts,10,VCU
+2021,1331,1455,15,Oral Roberts,11,Wichita St
+2021,1331,1364,15,Oral Roberts,12,UC Santa Barbara
+2021,1331,1452,15,Oral Roberts,3,West Virginia
+2021,1331,1397,15,Oral Roberts,5,Tennessee
+2021,1331,1361,15,Oral Roberts,6,San Diego St
+2021,1331,1353,15,Oral Roberts,10,Rutgers
+2021,1331,1393,15,Oral Roberts,11,Syracuse
+2021,1331,1333,15,Oral Roberts,12,Oregon St
+2021,1331,1345,15,Oral Roberts,4,Purdue
+2021,1331,1437,15,Oral Roberts,5,Villanova
+2021,1331,1403,15,Oral Roberts,6,Texas Tech
+2021,1331,1458,15,Oral Roberts,9,Wisconsin
+2021,1331,1439,15,Oral Roberts,10,Virginia Tech
+2021,1331,1429,15,Oral Roberts,11,Utah St
+2021,1331,1457,15,Oral Roberts,12,Winthrop
+2021,1216,1276,16,Hartford,1,Michigan
+2021,1216,1400,16,Hartford,3,Texas
+2021,1216,1261,16,Hartford,8,LSU
+2021,1216,1382,16,Hartford,9,St Bonaventure
+2021,1216,1268,16,Hartford,10,Maryland
+2021,1216,1277,16,Hartford,11,Michigan St
+2021,1216,1417,16,Hartford,11,UCLA
+2021,1216,1422,16,Hartford,13,UNC Greensboro
+2021,1216,1233,16,Hartford,15,Iona
+2021,1216,1291,16,Hartford,16,Mt St Mary's
+2021,1216,1411,16,Hartford,16,TX Southern
+2021,1216,1234,16,Hartford,2,Iowa
+2021,1216,1242,16,Hartford,3,Kansas
+2021,1216,1438,16,Hartford,4,Virginia
+2021,1216,1425,16,Hartford,6,USC
+2021,1216,1332,16,Hartford,7,Oregon
+2021,1216,1328,16,Hartford,8,Oklahoma
+2021,1216,1281,16,Hartford,9,Missouri
+2021,1216,1433,16,Hartford,10,VCU
+2021,1216,1455,16,Hartford,11,Wichita St
+2021,1216,1364,16,Hartford,12,UC Santa Barbara
+2021,1216,1325,16,Hartford,13,Ohio
+2021,1216,1313,16,Hartford,16,Norfolk St
+2021,1216,1228,16,Hartford,1,Illinois
+2021,1216,1222,16,Hartford,2,Houston
+2021,1216,1452,16,Hartford,3,West Virginia
+2021,1216,1329,16,Hartford,4,Oklahoma St
+2021,1216,1397,16,Hartford,5,Tennessee
+2021,1216,1361,16,Hartford,6,San Diego St
+2021,1216,1260,16,Hartford,8,Loyola-Chicago
+2021,1216,1353,16,Hartford,10,Rutgers
+2021,1216,1393,16,Hartford,11,Syracuse
+2021,1216,1333,16,Hartford,12,Oregon St
+2021,1216,1251,16,Hartford,13,Liberty
+2021,1216,1287,16,Hartford,14,Morehead St
+2021,1216,1326,16,Hartford,2,Ohio St
+2021,1216,1345,16,Hartford,4,Purdue
+2021,1216,1437,16,Hartford,5,Villanova
+2021,1216,1403,16,Hartford,6,Texas Tech
+2021,1216,1314,16,Hartford,8,North Carolina
+2021,1216,1458,16,Hartford,9,Wisconsin
+2021,1216,1439,16,Hartford,10,Virginia Tech
+2021,1216,1429,16,Hartford,11,Utah St
+2021,1216,1457,16,Hartford,12,Winthrop
+2021,1216,1317,16,Hartford,13,North Texas
+2021,1216,1331,16,Hartford,15,Oral Roberts

@@ -41,8 +41,8 @@ def get_predictions(submission):
     
 # --------------------------------------------------------------------------------------------------------------------
 
-def bracket_from_submission(FILENAME, gsheet_key, season):
-    # TODO: can add ignore_first_four... don't have to predict and could make bracket unnecessarily worse
+def bracket_from_submission(FILENAME, gsheet_key, season, ignore_first_four=True):
+    
     gc = pygsheets.authorize() # This may create a link to authorize
 
     N_ROUNDS    = 6
@@ -67,7 +67,8 @@ def bracket_from_submission(FILENAME, gsheet_key, season):
     
     predictions = get_predictions(FILENAME)
     
-    for ROUND in range(N_ROUNDS+1):
+    START_ROUND = 1 if (ignore_first_four) else 0
+    for ROUND in range(START_ROUND, N_ROUNDS+1):
         N_GAMES = (2 ** (N_ROUNDS-ROUND)) if ROUND != 0 else 4 # first four
 
         for GAME in range(1, N_GAMES+1):
