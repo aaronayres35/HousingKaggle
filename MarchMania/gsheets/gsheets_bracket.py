@@ -16,6 +16,7 @@ def left_cell(cell):
     return f"{chr(ord(col)-1)}{row}"
 
 # --------------------------------------------------------------------------------------------------------------------
+
 def get_id_from_name(name):
     df = pd.read_csv(MTEAM_PATH)
     name = name.strip()
@@ -26,8 +27,8 @@ def get_name_from_id(id):
     id = int(id)
     return df.loc[df['TeamID']==id, 'TeamName'].values[0]
 
-def get_predictions(submission):
-    submission = os.path.join(THIS_PATH, '..', f'submissions/{submission}.csv')
+def get_predictions(submission, year):
+    submission = os.path.join(THIS_PATH, '..', f'submissions/{year}/{submission}.csv')
     df = pd.read_csv(submission)
     # key: "{team1_id}_{team2_id}", val: id of winning team
     predictions = {}
@@ -44,8 +45,7 @@ def get_predictions(submission):
 def bracket_from_submission(FILENAME, gsheet_key, season, ignore_first_four=True):
     
     gc = pygsheets.authorize() # This may create a link to authorize
-
-    N_ROUNDS    = 6
+    N_ROUNDS = 6
     
     template = gc.open_by_key(gsheet_key).worksheet_by_title('Template')
     sheet = gc.open_by_key(gsheet_key)
@@ -96,5 +96,5 @@ def bracket_from_submission(FILENAME, gsheet_key, season, ignore_first_four=True
                 
             wk_sheet.update_value(cell_to_mark, '.')
     
-    wk_sheet.create_protected_range('A5', 'Y70')
+    wk_sheet.create_protected_range('A1', 'Y70')
     return wk_sheet.url
